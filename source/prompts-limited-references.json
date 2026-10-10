@@ -1,0 +1,24 @@
+{
+  "mode": "built-in image_gen",
+  "provenance_notice": "These assets are generated extractions of depictions printed on product packaging. They are reference-based placeholders, not verified photographs of the physical products. Actual unboxed product photographs are needed to validate fine geometry and unseen features.",
+  "assets": [
+    {
+      "product": "SAB234",
+      "reference": "source/reference-images/image9.png",
+      "output": "dist/assets/sab234.webp",
+      "generated_source": "/workspace/scratch/b102af18db90/generated_images/exec-c271030b-e6a6-41e8-9660-8f23eab090c5.png",
+      "source_evidence": "Only a white technical outline of the folded tripod is visible on the supplied packaging photograph. No real unboxed product photograph was provided for this model.",
+      "prompt": "Use case: background-extraction. Edit target: supplied photograph of SAB234 tripod packaging. Extract ONLY the existing fine WHITE OUTLINE LINE DRAWING of the folded tripod printed in the middle of the box. Faithfully copy its visible geometry, proportions, exact folded pose, head, side lever, locks, leg segments and feet. Do not create a new tripod, do not make it photorealistic, do not unfold or widen the legs. Keep the existing technical line-art depiction exactly. Erase all surrounding box, black and blue packaging, logo, name, model number, room and non-product white marks. Output only the isolated white line drawing with actual transparent alpha around and between all the lines. Portrait composition with complete drawing centered and generous margin. No text, no branding, no extra parts.",
+      "inspection": "Folded white outline is present with the observed head, lever, leg/lock sections and feet. Packaging, text, and logos are removed. Alpha is present; preview was inspected on white and dark backgrounds. Use on a dark display surface. Line details remain generative approximations, not a deterministic tracing."
+    },
+    {
+      "product": "AP1000",
+      "reference": "source/reference-images/image1.png",
+      "output": "dist/assets/ap1000.webp",
+      "generated_source": "/workspace/scratch/b102af18db90/generated_images/exec-9feb8c9a-6d7a-4d1d-bb49-80a4ca1884f9.png",
+      "source_evidence": "The supplied 500px packaging image includes a small printed depiction of a rectangular diffuser light with a wider dark side baffle and lower handle. Small controls and exact physical dimensions cannot be verified from this source.",
+      "prompt": "Use case: background-extraction. Edit target: provided packaging photo. Extract ONLY the actual product depiction PRINTED on the FRONT CREAM FACE of the AP1000 carton. It is a long rectangular white diffuser inside a narrow very dark frame, with a much wider black open side baffle on its LEFT side and a bottom handle. Faithfully preserve this exact depicted object silhouette, perspective, geometry and proportions. The complete light points near upright at the same subtle tilt as the source printed light. Retain the visible broad rectangular diffuser and baffle plus handle length; DO NOT invent a round wand, tube light, tripod, extra head, or generic LED baton. Remove all orange/cream carton, text, logos, branding, room and white background. Do not include the carton as geometry. Just an isolated faithful extracted depiction of this existing pictured device, on true transparent alpha, complete object centered with margin. No text, no logos, no added product details. Prefer preserving source appearance over hallucinating a more detailed product.",
+      "inspection": "Preserves the observed long rectangular diffuser, dark frame, broad left baffle, and bottom handle. Packaging, text, and logos are removed. Alpha is present and previews were inspected on white and dark backgrounds. Fine material, baffle hinges and handle controls are inferred by generation and cannot be verified; do not describe this as an exact product photograph."
+    }
+  ]
+}

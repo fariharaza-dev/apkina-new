@@ -1,0 +1,93 @@
+{
+  "updated": "2026-10-10",
+  "mode": "built-in image_gen",
+  "task": "Refresh all shared photographic backgrounds with coherent premium brand photography; male or inanimate subjects only.",
+  "assets": [
+    {
+      "slug": "campaign-bg",
+      "useCase": "photorealistic-natural",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: premium creator-equipment website campaign background, wide 16:9 landscape photograph.\nPrimary request: photograph a real EMPTY professional photographic studio with a charcoal cyclorama, subtle teal colour wash along the far left edge and muted violet colour wash along the far right edge. No people or equipment. Premium cinematic photographic finish suitable for a major technology brand. A large quiet charcoal wall occupies the central 70 percent and the entire upper half for website headline overlay, with very low contrast soft gradients. A realistic matte concrete floor runs along the lower quarter, with restrained violet and teal spill visible on it; colour is deliberately subtle, not neon. Only one very low plain dark rectangular plinth near the far lower right corner may be visible. Empty centre. Real physical studio photograph with believable diffuse wall illumination and fine surface texture, never an illustration or glossy CGI. Crisp straight architecture, clean restrained composition, excellent tonal gradation, natural photographic dynamic range. Off-camera lighting sources only.\nConstraints: no visible lamps, light panels, tripods, cables or recognizable product hardware; no people, human figures, silhouettes or reflections; no logos, branding, writing, packaging, watermarks, or text. No fake beam cones or glowing objects. Wide photographic image, approximately 1920 by 1080 or greater, keep the whole composition visible.",
+      "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-173585dc-5e43-4f1b-977a-c2f1a7c954aa.png",
+      "outputPath": "dist/assets/campaign-bg.webp",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "conversion": {
+        "format": "WebP",
+        "quality": 93,
+        "method": 6,
+        "resize": false,
+        "crop": false,
+        "imageEditing": false
+      },
+      "visualQA": [
+        "Empty photographed charcoal studio, no people or equipment visible",
+        "Restrained teal/violet illumination is physically consistent on wall and ground",
+        "Broad centre and upper negative space allows HTML copy",
+        "No branding, packaging or text"
+      ],
+      "status": "accepted"
+    },
+    {
+      "slug": "portrait-bg",
+      "useCase": "photorealistic-natural",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: premium creator-equipment website campaign background and lighting-guide cover, wide 16:9 landscape photograph.\nPrimary request: a professional luxury still-life photograph on a clean warm off-white to light-grey seamless studio background. A single sculptural off-white ceramic vase with a simple elegant shape sits on a low matte pale-stone platform in the far lower right third, with a small unbranded neutral ceramic sphere beside it. These are clearly inanimate photographed objects, no abstract digital art. The broad central and upper 70 percent of the image is empty softly lit pale wall, leaving generous negative space for dark HTML headline overlay. Quiet very light grey ground along the bottom, with one believable soft shadow cast behind and slightly right of the objects, consistently from large off-camera window light on the left. Fine ceramic texture, clean tangible stone, natural subtle highlights and exceptional commercial still-life photographic clarity. Restrained premium technology-brand art direction, minimal editorial photography, realistic lens perspective, no clutter.\nConstraints: no people, hands, human figures, silhouettes or reflections. No visible lighting equipment, lamps, hardware, packaging, text, letters, logos, branding or watermarks. No blue or orange packaging. No CGI gloss or fantasy geometry. Wide landscape composition approximately 1920 by 1080 or greater.",
+      "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-13dca14a-3219-4477-80db-c5741f6ced88.png",
+      "outputPath": "dist/assets/portrait-bg.webp",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "conversion": {
+        "format": "WebP",
+        "quality": 93,
+        "method": 6,
+        "resize": false,
+        "crop": false,
+        "imageEditing": false
+      },
+      "visualQA": [
+        "Unbranded inanimate ceramic vase and sphere on pale-stone platform only",
+        "Consistent off-camera left illumination and plausible right-side shadows",
+        "Broad light neutral background leaves central and upper negative space for HTML copy",
+        "No people, lighting fixtures, packaging, logos or text"
+      ],
+      "status": "accepted"
+    },
+    {
+      "slug": "creator-bg",
+      "useCase": "photorealistic-natural",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: premium creator-equipment website behind-the-scenes banner, about-page and filming-guide background. Wide 16:9 landscape documentary photograph.\nPrimary request: a believable professional interview film production in a minimal quiet charcoal and warm grey studio with natural soft daylight. Only TWO people are present, both clearly adult MEN. In the lower left side an adult male camera operator in a plain dark shirt is standing beside a realistic unbranded professional video camera on a sturdy black tripod. The camera is seen in clean side profile, its lens visibly points RIGHT directly toward the male interview guest in the lower right third. The male guest is comfortably seated on a neutral upholstered armchair, facing slightly LEFT toward the camera, relaxed natural expression and natural hands, wearing a plain charcoal shirt and beige trousers. Both men have short masculine hair and unambiguously male adult appearance. The camera, operator and guest form a physically coherent line of sight, lens aimed at seated guest's face, not at an empty wall. Nobody looks at the photograph's viewer. Large quiet charcoal wall across the entire upper half and the broad middle area for a white HTML headline overlay. Keep the subjects and filming hardware low and toward the sides, not in the central headline space. Real working film-set documentary photography, clean professional composition, sharp realistic camera construction, natural anatomy, controlled cinematic tonal range, beautifully diffused daylight, subtle depth of field but the camera and male guest clearly legible. Premium restrained major-technology-brand visual standard. No visible light fixtures are needed, all illumination comes plausibly from off-frame daylight.\nConstraints: men only, absolutely no women or feminine figures, no feminine silhouettes, faces, hands or reflections anywhere. No visible lighting panels, lamps, reflectors, light stands or cables. No recognizable Apkina products or invented lighting hardware. No camera maker lettering or badges, no logos, branding, text, watermarks or packaging. No blue or orange packaging. No CGI or cartoon effect. Wide photographic image approximately 1920 by 1080 or greater, preserve full composition.",
+      "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-f0d51c7c-4c79-4005-be21-b8ba2f72897e.png",
+      "outputPath": "dist/assets/creator-bg.webp",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "conversion": {
+        "format": "WebP",
+        "quality": 93,
+        "method": 6,
+        "resize": false,
+        "crop": false,
+        "imageEditing": false
+      },
+      "visualQA": [
+        "Two adult male figures only; no women or female reflections",
+        "Camera lens points directly toward seated male guest's face",
+        "Natural male anatomy and plausible tripod-mounted camera construction",
+        "Quiet upper and central wall provides room for HTML copy",
+        "No visible light fixture creates an orientation mismatch; natural left daylight is consistent",
+        "No visible branding, packaging or text"
+      ],
+      "status": "accepted"
+    }
+  ],
+  "notes": [
+    "Images reviewed visually from generated outputs before installation.",
+    "Generated native 1672 by 941 landscape frames preserved without upscaling or cropping.",
+    "Pillow used solely for format conversion.",
+    "Only the three assigned assets and this prompt manifest were modified."
+  ]
+}

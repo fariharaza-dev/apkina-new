@@ -1,0 +1,59 @@
+{
+  "source": "Figma get_design_context supplied asset URLs",
+  "figma_file_key": "Y9LfnzaLZ5pw997cOoiKSQ",
+  "nodes": [
+    "25:2"
+  ],
+  "staticnodes": [],
+  "usage": "Homepage hero uses the exact original AP1000 source image from Figma node 25:9. Uploaded Apkina SVG logo retained.",
+  "motion": "Motion is authored for the site, not copied from the static reference.",
+  "status": "asset_download_unavailable",
+  "assets": [
+    {
+      "filename": "hero-figma-mask.svg",
+      "url": "https://www.figma.com/api/mcp/asset/922e7914-ef0c-4b1f-9df6-1e6f7458d942.svg",
+      "saved": false,
+      "http_status": 200,
+      "response_content_type": "text/html",
+      "response_bytes": 195,
+      "response_root": "html",
+      "error": "Site Unavailable \u2014 Unable to access this site.",
+      "width": null,
+      "height": null,
+      "viewBox": null
+    },
+    {
+      "filename": "hero-figma-vignette.svg",
+      "url": "https://www.figma.com/api/mcp/asset/21a343ed-0042-451b-90e2-8035975a66a1.svg",
+      "saved": false,
+      "http_status": 200,
+      "response_content_type": "text/html",
+      "response_bytes": 195,
+      "response_root": "html",
+      "error": "Site Unavailable \u2014 Unable to access this site.",
+      "width": null,
+      "height": null,
+      "viewBox": null
+    }
+  ],
+  "implementation": {
+    "scope": "Homepage hero only",
+    "designNode": "25:2",
+    "motionInventory": [],
+    "motion": "Authored in response to user request: 22-second ambient drift, 16-second edge-light breathing, 9-second product float, desktop pointer displacement limited to 6px horizontally/5px vertically. Mobile timings soften to 27/11 seconds.",
+    "assets": "Original AP1000 Figma image retrieved through a read-only native image-byte API, saved at 1024x1536 and transcoded pixel-identically to lossless WebP. User-uploaded logo retained. Decorative vignette remains native CSS from the inspected design geometry; no design screenshot is used as an implementation asset.",
+    "verification": "Build/static route checks and motion-state mock checks passed. Browser rendering and full-loop visual QA unavailable."
+  },
+  "product_asset": {
+    "nodeId": "25:9",
+    "imageHash": "8a105d613cb4a2d7acdd55e3f91edf663e271bdd",
+    "source": "source/brand/ap1000-figma-original.png",
+    "output": "dist/assets/ap1000.webp",
+    "width": 1024,
+    "height": 1536,
+    "sourceBytes": 1375285,
+    "sha1": "8a105d613cb4a2d7acdd55e3f91edf663e271bdd",
+    "losslessPixelIdentical": true,
+    "retrieval": "Native Figma image bytes; read-only, no canvas mutations"
+  }
+}

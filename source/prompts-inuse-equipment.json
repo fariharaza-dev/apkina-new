@@ -1,0 +1,25 @@
+{
+  "mode": "built-in imagegen",
+  "assets": [
+    {
+      "name": "300w-in-use",
+      "references": [
+        "dist/assets/300w.webp",
+        "source/reference-images/image3.png"
+      ],
+      "generated": "/workspace/scratch/b102af18db90/generated_images/exec-943171e7-3356-423c-9b1a-08853addc321.png",
+      "prompt": "Use case: compositing, product-mockup. Asset: premium commercial editorial photograph for a professional video light product page, widescreen 16:9, 1920x1080. Reference 1 is the exact unbranded product whose physical identity MUST be retained; Reference 2 is original photograph for geometry only, ignore its text and surrounding graphics. Create a realistic professional portrait photography studio IN USE scene with this actual black 300W COB light prominent in the right foreground mounted correctly by its lower socket onto a black studio light stand. Light points toward a seated adult female portrait subject to the left, further in the studio; a photographer and camera subtly visible beyond. The actual lamp occupies roughly one third of frame, tack sharp, recognizably the SAME exact horizontally elongated black ribbed housing, round silver front disk with yellow LED, black circular Bowens mount, two fine silver side strips, rear upward curved carry handle, same sculpted outlined pentagonal side tightening knob, and U-shaped black yoke. Do not hide lamp behind a softbox; show front/side three-quarter angle with full housing, handle and yoke visible, same physical proportions as references. Plausible gentle active light spill toward the model, subtle real studio atmosphere, muted charcoal/gray seamless background, professional fashion portrait shoot, natural warm skin, authentic stand and power cable safely draped. Premium photographic commercial style, clean spacious composition, sophisticated directional illumination and slight shallow depth of field; NOT CGI illustration. The product is the clear subject. No other competing lights, no packaging, no logo, no branding anywhere, no text, no captions, no watermark. Use reference geometry exactly, do not substitute a generic video light or invent an alternate body shape.",
+      "qa": "Visually inspected: matches original ribbed black housing, silver circular face, rear handle, pentagonal tightening knob and yoke. Mounted on stand in portrait studio with photographer and portrait subject. Unbranded."
+    },
+    {
+      "name": "charger-in-use",
+      "references": [
+        "dist/assets/charger.webp",
+        "source/reference-images/image5.png"
+      ],
+      "generated": "/workspace/scratch/b102af18db90/generated_images/exec-c971ff34-90f1-4596-9857-1cef79dd2d20.png",
+      "prompt": "Use case: compositing, product-mockup. Asset: premium photographic editorial product-in-use image for a filmmaker battery charger webpage, landscape 16:9, 1920x1080. Reference 1 is the exact unbranded charger; reference 2 is the original photo for geometry only, entirely ignore orange box and letters. Scene: real dark charcoal filmmaker equipment workbench during shoot preparation. This EXACT SINGLE-SLOT elongated upright-portrait shaped charger lies safely face-up on the desk in the foreground, viewed from a slightly elevated three-quarter angle. Long axis runs from lower middle toward upper left; top head and screen remain highly visible. Preserve original tall narrow body, wider rounded beveled top head, gray inset screen bezel with ONE small rectangular pale light-gray display, recessed SINGLE battery slot beneath, exact dark molded side rails/facets. One plain unbranded compatible NP-F970 battery is seated correctly into its sole slot, leaving top display/head and charger rail sides exposed so exact charger remains recognizable; no second slot. A filmmaker's natural right hand on the right is setting one additional small plain NP-F battery nearby on the tabletop, and charger has a subtle power cable attached out of view at far end. An unbranded camera and coiled cable are softly blurred farther back, no visual clutter. Realistic scale: charger palm-sized, battery slightly smaller than slot width, screen head unobstructed. Premium commercial camera equipment photography, elegant neutral warm directional window illumination across charcoal surfaces, convincing material textures and soft shadows, cinematic shallow depth of field with complete charger and hand in focus. Keep exact hardware identity, not a generic invented device; do not add buttons, do not make two charging slots, no blue screen, no colorful lights. No words, no logo, no branding, no packaging, no watermark. Authentic plausible charging workflow and hand anatomy, no fingers touching contacts.",
+      "qa": "Visually inspected: original tall single-slot charger, pale display and original bezel, shoulder and rails retained. One unbranded battery seated, hand sets spare nearby, power cable attached. Unbranded camera blurred behind."
+    }
+  ]
+}

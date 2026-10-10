@@ -1,0 +1,21 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "product": "AP475",
+      "source": "/workspace/sites/apkina-creator-gear/source/reference-images/image6.png",
+      "output": "/workspace/sites/apkina-creator-gear/dist/assets/ap475.webp",
+      "prompt": "Use case: background-extraction with precise-object-edit. Edit target: the supplied ORIGINAL product photograph. Produce a cleaned photographic cutout of the EXACT SAME physical object. Remove only the white background and all printed branding, model lettering and tiny compliance writing from the existing rear black tube. Fill those printed areas with matching original black surface. Lock the entire geometry and camera view: same very slim tall cylindrical black light wand, same visible unlit rear face, same top faceted cap, same long vertical grooves, same lower embedded controller with small screen/buttons, same bottom collar, same three miniature tripod feet in their original arrangement including long front foot. Keep all non-text hardware and edges in exactly their original relative positions and proportions. Do not rotate the product; do not reveal its unseen illuminated front; do not redesign, add lights, handles, new tripod or panels. Preserve the natural photography and subtle existing material shading, only improve clarity of the existing photograph. Entire product in frame, centered with modest margin, no crop. Output real transparent alpha background. No text, logo, branding, package, scenery, shadow background, watermark or extra accessories.",
+      "generated_png": "/workspace/scratch/b102af18db90/generated_images/exec-c61fcbd9-2daa-4b96-872d-9080fd037209.png",
+      "qa": "Accepted after visual comparison against original source: source view, silhouette, hardware and lighting preserved; visible printing and background removed. RGBA alpha range verified 0\u2013255."
+    },
+    {
+      "product": "AP620",
+      "source": "/workspace/sites/apkina-creator-gear/source/reference-images/image7.png",
+      "output": "/workspace/sites/apkina-creator-gear/dist/assets/ap620.webp",
+      "prompt": "Use case: background-extraction with precise-object-edit. Edit target: supplied ORIGINAL product photograph. Remove the blurred dark backdrop and ONLY the small white APKINA and model lettering from the black handle. Preserve the EXACT SAME product geometry, silhouette, framing and perspective from this photograph: the tall narrow cyan-and-warm-amber illuminated center light strip; the wide dark vertical ribbed barn-door/side panels to its left and right; their precise width and original alignment; curved metallic end-cap details; the black narrow handle extending below the long light head with exactly one visible round control knob; the tiny visible mounting base at the bottom. Keep the identical proportions of light head to handle and same camera angle, identical existing cyan/amber distribution. Do not invent a tube-shaped wand, do not rotate, do not add a second knob, cable, tripod, screen or different base. Retain the exact source outline including the modest visible base, without redesigning or enlarging the hardware. Improve photographic sharpness while keeping original natural product materials and lighting. Full original object visible, centered with modest transparent margin, no cropping. Real transparent alpha background, no logos, no words, no branding, no packaging, no scene or fake checkerboard.",
+      "generated_png": "/workspace/scratch/b102af18db90/generated_images/exec-28a51db0-a132-4618-a92b-6bfceed327a3.png",
+      "qa": "Accepted after visual comparison against original source: source view, silhouette, hardware and lighting preserved; visible printing and background removed. RGBA alpha range verified 0\u2013255."
+    }
+  ]
+}
