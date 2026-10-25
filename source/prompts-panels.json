@@ -1,0 +1,35 @@
+{
+  "mode": "built-in image_gen",
+  "intent": "precise-object-edit + background-extraction",
+  "date": "2026-10-10",
+  "assets": [
+    {
+      "asset": "dist/assets/ap3150.webp",
+      "reference": "source/reference-images/image2.png",
+      "prompt": "Use case: precise-object-edit + background-extraction. Edit target: the supplied ORIGINAL AP3150 product photograph. This is precision cleanup of the actual photograph, not product redesign or rendering. Remove ONLY the white background and the APKINA logo plus model/legal/specification text block at lower left. Replace that printed text area with matching smooth grey metal. Keep the exact photographed flat grey rear plate, wide 1.83:1 proportions, corner radius, thin black rim, straight-on perspective, flat grey material/color and dark rectangular black screen near upper right. Keep all right-hand button locations and functional symbols/labels, all edge ports, and rainbow color calibration strip with its original shape and position. Do not add ribs, grips, structure, lights, views, perspective, screens, accessories, shadows, reflections, logos or packaging. Do not change camera angle, geometry, silhouette, color or construction. Preserve the source product at pixel-faithful photographic fidelity. Center the same product on a truly transparent canvas with 12% clear margin around it. No fake transparency/checkerboard. No branding, model names, legal text, watermark or captions.",
+      "transparent_background": true,
+      "generatedPng": "/workspace/scratch/b102af18db90/generated_images/exec-345930b2-5781-4cfd-9246-a7e8d26e0b0b.png",
+      "status": "visually inspected against original; alpha-preserving lossless WebP saved",
+      "notes": "Flat plate geometry, original perspective, screen/control locations retained. Small functional scale digits reconstructed and not exact."
+    },
+    {
+      "asset": "dist/assets/ap3250.webp",
+      "reference": "source/reference-images/image4.png",
+      "prompt": "Use case: precise-object-edit + background-extraction. Edit target: supplied ORIGINAL AP3250 photograph showing TWO views of the exact same rectangular light. Precision photo cleanup only; DO NOT generate a replacement device or CGI. Remove the white background. Erase ONLY the APKINA logo/wordmark and model/specification/legal text in center-lower area of rear panel; reconstruct those tiny printed areas with matching existing grey metal. Keep the exact two overlapping devices in exactly their original arrangement, size, spacing and angle: foreground rear panel tilted in perspective, second white front diffuser behind it. Preserve exact perspective, wide rectangular proportions, thickness, bevels, rounded corners, grey finish, left diagonal vent grooves, large recessed X-shaped back ribs, rainbow calibration strip, small black functional display with existing numbers on right, all ports/buttons/symbols and front-facing threaded circular hole. Preserve original physical construction and photo lighting. Do not change either silhouette, spacing, ribs, controls, materials or colors. No additional objects, views, branding, text captions, packaging, studio scenes, shadows or special effects. Center the untouched two-product pair with adequate 10% transparent margin. Output a faithful photographic cutout on genuinely transparent background.",
+      "transparent_background": true,
+      "generatedPng": "/workspace/scratch/b102af18db90/generated_images/exec-4485fcac-97a8-4cdd-9b42-5da96d3b1c20.png",
+      "refinementPrompt": "Use case: precise-object-edit + background-extraction. Edit target: attached transparent product cutout. Make exactly ONE correction: remove stray white backdrop fragments, fuzzy alpha debris and isolated pixels immediately above the upper edge of the rear white light panel, and around the object's outside perimeter. Create a clean precise anti-aliased cutout edge following the actual hardware outline. Every solid product pixel, both product geometries, X ribs, grooves, display, rainbow strip, camera angle, proportions, photo colors and positions must remain unchanged. Do NOT redraw, rerender or redesign the products; do not alter materials or lighting. Preserve genuine transparency and original canvas dimensions. No new shadows, text, background, scene or effects.",
+      "status": "visually inspected against original; alpha-preserving lossless WebP saved",
+      "notes": "Original overlapping front/rear arrangement and X-rib geometry retained. Second pass reduced stray alpha around rear panel. Fine pale fringe remains when viewed against black. Small scale/display glyphs reconstructed."
+    },
+    {
+      "asset": "dist/assets/ap336.webp",
+      "reference": "source/reference-images/image8.png",
+      "prompt": "Use case: precise-object-edit + background-extraction. Edit target: supplied ORIGINAL AP336 product photo. Carefully clean the ORIGINAL photograph only. Remove the white background and external top-left SK watermark; erase APKINA brand, AP336 model and legal/product writing on rear device and its small white sticker. Preserve the sticker's original white rectangle shape but leave it blank. Preserve exactly the same TWO product views, sizes and arrangement: top view is black rectangular light FRONT with dense precisely aligned discrete yellow/white LED grid visible beneath clear cover, wide aspect ratio and rounded black frame; bottom view is its black REAR, wide shallow rectangular housing with top/bottom ventilation slots, broad battery recess, metallic battery contacts and exactly the original two controls at lower-left and bottom mounting protrusion. Preserve source geometry, positions, number/spacing of LED rows and columns, real texture, shape, color, controls, perspective, proportions and lighting. Do not invent LEDs, diffuser, display, extra ribs, angle, feet, logos, words or hardware. Do not turn it into CGI. Both full views centered on one genuinely transparent canvas with 10% empty outer margin, original vertical spacing maintained. No packaging, captions, watermarks, added shadows or scene.",
+      "transparent_background": true,
+      "generatedPng": "/workspace/scratch/b102af18db90/generated_images/exec-85da99db-1d25-435d-a756-b3406b3a8747.png",
+      "status": "visually inspected against original; alpha-preserving lossless WebP saved",
+      "notes": "Original front/rear arrangement retained; 24x14 LED grid and battery rear preserved. Original white legal label now blank. Microscopic details are AI-reconstructed from low-resolution source."
+    }
+  ]
+}

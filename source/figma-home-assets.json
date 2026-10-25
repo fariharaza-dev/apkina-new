@@ -1,0 +1,467 @@
+{
+  "fileKey": "Y9LfnzaLZ5pw997cOoiKSQ",
+  "assets": [
+    {
+      "file": "tile-300w.png",
+      "nodeId": "69:40",
+      "bytes": 209562,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 690,
+      "height": 651,
+      "mode": "RGBA"
+    },
+    {
+      "file": "tile-ap3250.png",
+      "nodeId": "69:41",
+      "bytes": 288040,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 690,
+      "height": 651,
+      "mode": "RGBA"
+    },
+    {
+      "file": "tile-ap620.png",
+      "nodeId": "69:42",
+      "bytes": 138882,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 690,
+      "height": 651,
+      "mode": "RGBA"
+    },
+    {
+      "file": "tile-ap336.png",
+      "nodeId": "69:43",
+      "bytes": 290116,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 690,
+      "height": 651,
+      "mode": "RGBA"
+    },
+    {
+      "file": "ap200-banner.png",
+      "nodeId": "69:96",
+      "bytes": 441990,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 1400,
+      "height": 651,
+      "mode": "RGBA"
+    },
+    {
+      "file": "news-1.png",
+      "nodeId": "69:138",
+      "bytes": 301881,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 424,
+      "height": 424,
+      "mode": "RGBA"
+    },
+    {
+      "file": "news-2.png",
+      "nodeId": "69:139",
+      "bytes": 275693,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 424,
+      "height": 424,
+      "mode": "RGBA"
+    },
+    {
+      "file": "news-3.png",
+      "nodeId": "69:140",
+      "bytes": 385206,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 424,
+      "height": 424,
+      "mode": "RGBA"
+    },
+    {
+      "file": "ap200-product.png",
+      "nodeId": "69:101",
+      "bytes": 341726,
+      "method": "Figma native artwork layer PNG export at scale 1",
+      "width": 588,
+      "height": 563,
+      "mode": "RGBA"
+    },
+    {
+      "file": "header-logo.svg",
+      "nodeId": "69:13",
+      "bytes": 2524,
+      "method": "Figma native SVG export",
+      "width": "112",
+      "height": "20",
+      "viewBox": "0 0 112 20"
+    },
+    {
+      "file": "brand-mark.svg",
+      "nodeId": "69:45",
+      "bytes": 1203,
+      "method": "Figma native SVG export",
+      "width": "33",
+      "height": "32",
+      "viewBox": "0 0 33 32"
+    },
+    {
+      "file": "phone.svg",
+      "nodeId": "69:121",
+      "bytes": 2739,
+      "method": "Figma native SVG export",
+      "width": "40",
+      "height": "40",
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "file": "whatsapp.svg",
+      "nodeId": "69:127",
+      "bytes": 1830,
+      "method": "Figma native SVG export",
+      "width": "40",
+      "height": "40",
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "file": "email.svg",
+      "nodeId": "69:133",
+      "bytes": 660,
+      "method": "Figma native SVG export",
+      "width": "50",
+      "height": "40",
+      "viewBox": "0 0 50 40"
+    },
+    {
+      "file": "footer-wordmark.svg",
+      "nodeId": "69:145",
+      "bytes": 1402,
+      "method": "Figma native SVG export",
+      "width": "1440",
+      "height": "273",
+      "viewBox": "0 0 1440 273"
+    },
+    {
+      "file": "footer-logo.svg",
+      "nodeId": "69:183",
+      "bytes": 2539,
+      "method": "Figma native SVG export",
+      "width": "335",
+      "height": "60",
+      "viewBox": "0 0 335 60"
+    },
+    {
+      "file": "pakistan-flag.svg",
+      "nodeId": "69:193",
+      "bytes": 1933,
+      "method": "Figma native SVG export",
+      "width": "35",
+      "height": "25",
+      "viewBox": "0 0 35 25"
+    },
+    {
+      "file": "nav-chevron.svg",
+      "nodeId": "69:25",
+      "bytes": 214,
+      "method": "Figma native SVG export",
+      "width": "10",
+      "height": "6",
+      "viewBox": "0 0 10 6"
+    },
+    {
+      "file": "search.svg",
+      "nodeId": "69:29",
+      "bytes": 1332,
+      "method": "Figma native SVG export",
+      "width": "18",
+      "height": "18",
+      "viewBox": "0 0 18 18"
+    },
+    {
+      "file": "hero-ellipse.svg",
+      "nodeId": "69:10",
+      "bytes": 675,
+      "method": "Figma native SVG export",
+      "width": "1400",
+      "height": "1006",
+      "viewBox": "0 0 1400 1006"
+    },
+    {
+      "file": "tile-300w-2x.png",
+      "nodeId": "69:40",
+      "bytes": 603367,
+      "method": "Native Figma artwork export at scale 2",
+      "width": 1380,
+      "height": 1302,
+      "mode": "RGBA",
+      "renderScale": 2,
+      "sourceImageSizes": [
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    },
+    {
+      "file": "tile-ap3250-2x.png",
+      "nodeId": "69:41",
+      "bytes": 890572,
+      "method": "Native Figma artwork export at scale 2; exact pixel-grid PNG assembly",
+      "width": 1380,
+      "height": 1302,
+      "mode": "RGBA",
+      "renderScale": 2,
+      "sourceImageSizes": [
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    },
+    {
+      "file": "tile-ap620-2x.png",
+      "nodeId": "69:42",
+      "bytes": 371796,
+      "method": "Native Figma artwork export at scale 2",
+      "width": 1380,
+      "height": 1302,
+      "mode": "RGBA",
+      "renderScale": 2,
+      "sourceImageSizes": [
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    },
+    {
+      "file": "tile-ap336-2x.png",
+      "nodeId": "69:43",
+      "bytes": 853229,
+      "method": "Native Figma artwork export at scale 2; exact pixel-grid PNG assembly",
+      "width": 1380,
+      "height": 1302,
+      "mode": "RGBA",
+      "renderScale": 2,
+      "sourceImageSizes": [
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    },
+    {
+      "file": "ap200-banner-2x.png",
+      "nodeId": "69:96",
+      "bytes": 1433247,
+      "method": "Native Figma artwork export at scale 2; exact pixel-grid PNG assembly",
+      "width": 2800,
+      "height": 1302,
+      "mode": "RGBA",
+      "renderScale": 2,
+      "sourceImageSizes": [
+        [
+          1500,
+          500
+        ],
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    },
+    {
+      "file": "ap200-product-2x.png",
+      "nodeId": "69:101",
+      "bytes": 1125216,
+      "method": "Native Figma artwork export at scale 2; exact pixel-grid PNG assembly",
+      "width": 1176,
+      "height": 1126,
+      "mode": "RGBA",
+      "renderScale": 2,
+      "sourceImageSizes": [
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    },
+    {
+      "file": "news-1-3x.png",
+      "nodeId": "69:138",
+      "bytes": 2335979,
+      "method": "Native Figma artwork export at scale 3; exact pixel-grid PNG assembly",
+      "width": 1272,
+      "height": 1272,
+      "mode": "RGBA",
+      "renderScale": 3,
+      "sourceImageSizes": [
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    },
+    {
+      "file": "news-2-3x.png",
+      "nodeId": "69:139",
+      "bytes": 2029636,
+      "method": "Native Figma artwork export at scale 3; exact pixel-grid PNG assembly",
+      "width": 1272,
+      "height": 1272,
+      "mode": "RGBA",
+      "renderScale": 3,
+      "sourceImageSizes": [
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    },
+    {
+      "file": "news-3-3x.png",
+      "nodeId": "69:140",
+      "bytes": 3379619,
+      "method": "Native Figma artwork export at scale 3; exact pixel-grid PNG assembly",
+      "width": 1272,
+      "height": 1272,
+      "mode": "RGBA",
+      "renderScale": 3,
+      "sourceImageSizes": [
+        [
+          1254,
+          1254
+        ]
+      ],
+      "cropPreserved": true,
+      "localResampling": false,
+      "syntheticDetail": false
+    }
+  ],
+  "notes": [
+    "Exported artwork only; page text remains HTML.",
+    "Native SVG roots preserve Figma rendered clipping and applied rotation.",
+    "brand-mark.svg is already rotated; do not apply another 90-degree rotation.",
+    "hero-ellipse.svg is clipped to the 1400\u00d71006 hero artwork bounds.",
+    "footer-wordmark.svg is clipped to the 1440\u00d7273 page bounds.",
+    "Existing approved hero source ../ap1000.webp reused by parent, not rewritten."
+  ],
+  "sharpExportAudit": {
+    "sessionId": "b89bc8ea-abbf-4281-aaaf-26e6b9c4de35",
+    "nativeSegmentCalls": 9,
+    "temporaryNodesRemoved": 136,
+    "remainingHelpers": 0,
+    "originalNodesUnchanged": true,
+    "selectionRestored": true,
+    "localProcessing": "PNG segments pasted at exact integer pixel coordinates only; no resize, sharpening, filters, or generated detail."
+  },
+  "resolutionNotes": [
+    "Original tile/news/product source fills are 1254\u00d71254 pixels.",
+    "Retina assets recover detail previously discarded by690px tile and424px news exports.",
+    "2x tile renders are1380px wide, approximately10% above native source width;3x news renders are1272px, approximately1.4% above native source width. This native rendering does not invent detail.",
+    "No existing Figma artwork nodes were altered; all temporary export helpers were removed and selections restored."
+  ],
+  "delivery_variants": [
+    {
+      "file": "ap200-banner-2x.webp",
+      "source_export": "ap200-banner-2x.png",
+      "format": "lossless WebP",
+      "width": 2800,
+      "height": 1302,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "ap200-product-2x.webp",
+      "source_export": "ap200-product-2x.png",
+      "format": "lossless WebP",
+      "width": 1176,
+      "height": 1126,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "news-1-3x.webp",
+      "source_export": "news-1-3x.png",
+      "format": "lossless WebP",
+      "width": 1272,
+      "height": 1272,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "news-2-3x.webp",
+      "source_export": "news-2-3x.png",
+      "format": "lossless WebP",
+      "width": 1272,
+      "height": 1272,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "news-3-3x.webp",
+      "source_export": "news-3-3x.png",
+      "format": "lossless WebP",
+      "width": 1272,
+      "height": 1272,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "tile-300w-2x.webp",
+      "source_export": "tile-300w-2x.png",
+      "format": "lossless WebP",
+      "width": 1380,
+      "height": 1302,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "tile-ap3250-2x.webp",
+      "source_export": "tile-ap3250-2x.png",
+      "format": "lossless WebP",
+      "width": 1380,
+      "height": 1302,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "tile-ap336-2x.webp",
+      "source_export": "tile-ap336-2x.png",
+      "format": "lossless WebP",
+      "width": 1380,
+      "height": 1302,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "tile-ap620-2x.webp",
+      "source_export": "tile-ap620-2x.png",
+      "format": "lossless WebP",
+      "width": 1380,
+      "height": 1302,
+      "decoded_pixels_identical": true
+    },
+    {
+      "file": "ap200-backdrop.webp",
+      "source_export": "ap200-backdrop.png",
+      "source_node": "69:96",
+      "excluded_product_node": "69:101",
+      "format": "lossless WebP",
+      "width": 2800,
+      "height": 1302,
+      "decoded_pixels_identical": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "fileKey": "Y9LfnzaLZ5pw997cOoiKSQ",
+  "pageNodeId": "88:106",
+  "assets": [
+    {
+      "file": "dist/assets/explore/colour-temperature.webp",
+      "sourceImageHash": "08b4a6178ff8c391596ed6f7ec636ad420eab279",
+      "width": 1672,
+      "height": 941,
+      "method": "Exact Figma source image bytes, converted to lossless WebP; decoded pixels verified identical",
+      "slots": [
+        "90:3000",
+        "90:3108",
+        "90:3299",
+        "90:3438"
+      ],
+      "sha256": "cd6a29fe353b631e71c76114fda0cb752f49f05d09c02347b973a5398ffb3ca9"
+    }
+  ]
+}

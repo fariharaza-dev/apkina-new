@@ -1,0 +1,602 @@
+{
+  "mode": "Built-in ImageGen plus the original supplied Figma AP1000 asset",
+  "updated": "2026-10-10",
+  "asset_count": 21,
+  "assets": [
+    "/workspace/sites/apkina-creator-gear/dist/assets/300w-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/300w.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap1000-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap1000.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap3150-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap3150.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap3250-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap3250.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap336-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap336.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap475-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap475.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap620-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/ap620.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/campaign-bg.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/charger-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/charger.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/creator-bg.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/portrait-bg.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/sab234-in-use.webp",
+    "/workspace/sites/apkina-creator-gear/dist/assets/sab234.webp"
+  ],
+  "asset_records": [
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/300w-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 122292,
+      "sha256": "e2d0612c8b0c2a39944c71a64a0320395528a422c34575f4e3e2bd3325450be5",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/300w.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 780202,
+      "sha256": "05e66052d95a238207af77d3dbc3732f9cd070d9beaeff1bd3b1645174d468c1",
+      "role": "product-view",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap1000-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 137368,
+      "sha256": "7af043f877dca6d6c429a1ae24e84ea5bcee8992434edbbec0899e8db01296e5",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap1000.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 864334,
+      "sha256": "e8c5117a42e0716ce56aaeba2839f1ca2bec808529d2c5412da8209e96d949fd",
+      "role": "product-view",
+      "source": "original supplied Figma image"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap3150-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 174126,
+      "sha256": "f316ef696ec687b839b051bb7b2e993e64f3060e575ae22515db12ed1b5afc2d",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap3150.webp",
+      "width": 1400,
+      "height": 765,
+      "bytes": 794742,
+      "sha256": "07c2fa55a85d21944f943f5de8a0a483d07e9397a7a29bb74bd38011d5e63b92",
+      "role": "product-view",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap3250-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 116116,
+      "sha256": "1895fa6efc86c1c9a4de8ca0711847bd6d42b0694fe22d79157e02f917ad7e52",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap3250.webp",
+      "width": 1400,
+      "height": 933,
+      "bytes": 754060,
+      "sha256": "8f94eb08430614f30d2af3edacc2d1f9e098a7499936d6c6c8e412dc5579534b",
+      "role": "product-view",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap336-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 140078,
+      "sha256": "368adf24bcb659718468e548872461dde5f3856e48f614e6b8849d9a37c227a4",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap336.webp",
+      "width": 1400,
+      "height": 787,
+      "bytes": 994436,
+      "sha256": "437939f86e275a7544399dc9c3012cbd3df7a82e5c08a7cdee7fd7b1a0aee7ae",
+      "role": "product-view",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap475-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 133348,
+      "sha256": "a45389ebd72f06e90c6eaac9eaf6f3d3fe668257f539b58354b3444eca72b3fc",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap475.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 117168,
+      "sha256": "c477cd86bf1ed7c6225333c3d85b65e9c5af431e4cabdf9faa6da924f248e460",
+      "role": "product-view",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap620-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 131644,
+      "sha256": "05dddee7cd26fa3ce723d5184782ed3ee5683266d047e8c88d2632430f9b320c",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/ap620.webp",
+      "width": 785,
+      "height": 1400,
+      "bytes": 369750,
+      "sha256": "30278ba5e3a30b0733acf30ed801c33fd1f45e2638715c9e90bb34af3aca4cac",
+      "role": "product-view",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/campaign-bg.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 144098,
+      "sha256": "e38855d23085318004d14b976d145a90008b4605fbdc42e8cf78553750324f4b",
+      "role": "editorial-background",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/charger-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 270282,
+      "sha256": "3c94d525d5a02615943beb9588bb970dec8579b2795e710691ee35068ad4e968",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/charger.webp",
+      "width": 1145,
+      "height": 1373,
+      "bytes": 961880,
+      "sha256": "d3f6bcef16f1e2c1efc38cbf49cb5cc6f1d61afc350e351662808bd82d8cb228",
+      "role": "product-view",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/creator-bg.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 167506,
+      "sha256": "a8094596e561c887ea66db9895569f94a30377aea1e127ac91e21c8e9761df78",
+      "role": "editorial-background",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/portrait-bg.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 80560,
+      "sha256": "681da41f8edd021b5436d355937b15bcf5681056cbce0edc5ecddbe1d285143d",
+      "role": "editorial-background",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/sab234-in-use.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 274248,
+      "sha256": "a3556d3ecbdb4a9df4bb880f1d8498d402643eb28273512950d2d900cb421ac6",
+      "role": "product-in-use",
+      "source": "built-in ImageGen"
+    },
+    {
+      "path": "/workspace/sites/apkina-creator-gear/dist/assets/sab234.webp",
+      "width": 933,
+      "height": 1400,
+      "bytes": 532650,
+      "sha256": "060760c3172540d3433b3ddc7d002d1ec05015c1bc718291e0779cfd859a3f77",
+      "role": "product-view",
+      "source": "built-in ImageGen"
+    }
+  ],
+  "prompt_sets": {
+    "prompts-photo-refresh-backgrounds.json": {
+      "updated": "2026-10-10",
+      "mode": "built-in image_gen",
+      "task": "Refresh all shared photographic backgrounds with coherent premium brand photography; male or inanimate subjects only.",
+      "assets": [
+        {
+          "slug": "campaign-bg",
+          "useCase": "photorealistic-natural",
+          "prompt": "Use case: photorealistic-natural.\nAsset type: premium creator-equipment website campaign background, wide 16:9 landscape photograph.\nPrimary request: photograph a real EMPTY professional photographic studio with a charcoal cyclorama, subtle teal colour wash along the far left edge and muted violet colour wash along the far right edge. No people or equipment. Premium cinematic photographic finish suitable for a major technology brand. A large quiet charcoal wall occupies the central 70 percent and the entire upper half for website headline overlay, with very low contrast soft gradients. A realistic matte concrete floor runs along the lower quarter, with restrained violet and teal spill visible on it; colour is deliberately subtle, not neon. Only one very low plain dark rectangular plinth near the far lower right corner may be visible. Empty centre. Real physical studio photograph with believable diffuse wall illumination and fine surface texture, never an illustration or glossy CGI. Crisp straight architecture, clean restrained composition, excellent tonal gradation, natural photographic dynamic range. Off-camera lighting sources only.\nConstraints: no visible lamps, light panels, tripods, cables or recognizable product hardware; no people, human figures, silhouettes or reflections; no logos, branding, writing, packaging, watermarks, or text. No fake beam cones or glowing objects. Wide photographic image, approximately 1920 by 1080 or greater, keep the whole composition visible.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-173585dc-5e43-4f1b-977a-c2f1a7c954aa.png",
+          "outputPath": "dist/assets/campaign-bg.webp",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "conversion": {
+            "format": "WebP",
+            "quality": 93,
+            "method": 6,
+            "resize": false,
+            "crop": false,
+            "imageEditing": false
+          },
+          "visualQA": [
+            "Empty photographed charcoal studio, no people or equipment visible",
+            "Restrained teal/violet illumination is physically consistent on wall and ground",
+            "Broad centre and upper negative space allows HTML copy",
+            "No branding, packaging or text"
+          ],
+          "status": "accepted"
+        },
+        {
+          "slug": "portrait-bg",
+          "useCase": "photorealistic-natural",
+          "prompt": "Use case: photorealistic-natural.\nAsset type: premium creator-equipment website campaign background and lighting-guide cover, wide 16:9 landscape photograph.\nPrimary request: a professional luxury still-life photograph on a clean warm off-white to light-grey seamless studio background. A single sculptural off-white ceramic vase with a simple elegant shape sits on a low matte pale-stone platform in the far lower right third, with a small unbranded neutral ceramic sphere beside it. These are clearly inanimate photographed objects, no abstract digital art. The broad central and upper 70 percent of the image is empty softly lit pale wall, leaving generous negative space for dark HTML headline overlay. Quiet very light grey ground along the bottom, with one believable soft shadow cast behind and slightly right of the objects, consistently from large off-camera window light on the left. Fine ceramic texture, clean tangible stone, natural subtle highlights and exceptional commercial still-life photographic clarity. Restrained premium technology-brand art direction, minimal editorial photography, realistic lens perspective, no clutter.\nConstraints: no people, hands, human figures, silhouettes or reflections. No visible lighting equipment, lamps, hardware, packaging, text, letters, logos, branding or watermarks. No blue or orange packaging. No CGI gloss or fantasy geometry. Wide landscape composition approximately 1920 by 1080 or greater.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-13dca14a-3219-4477-80db-c5741f6ced88.png",
+          "outputPath": "dist/assets/portrait-bg.webp",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "conversion": {
+            "format": "WebP",
+            "quality": 93,
+            "method": 6,
+            "resize": false,
+            "crop": false,
+            "imageEditing": false
+          },
+          "visualQA": [
+            "Unbranded inanimate ceramic vase and sphere on pale-stone platform only",
+            "Consistent off-camera left illumination and plausible right-side shadows",
+            "Broad light neutral background leaves central and upper negative space for HTML copy",
+            "No people, lighting fixtures, packaging, logos or text"
+          ],
+          "status": "accepted"
+        },
+        {
+          "slug": "creator-bg",
+          "useCase": "photorealistic-natural",
+          "prompt": "Use case: photorealistic-natural.\nAsset type: premium creator-equipment website behind-the-scenes banner, about-page and filming-guide background. Wide 16:9 landscape documentary photograph.\nPrimary request: a believable professional interview film production in a minimal quiet charcoal and warm grey studio with natural soft daylight. Only TWO people are present, both clearly adult MEN. In the lower left side an adult male camera operator in a plain dark shirt is standing beside a realistic unbranded professional video camera on a sturdy black tripod. The camera is seen in clean side profile, its lens visibly points RIGHT directly toward the male interview guest in the lower right third. The male guest is comfortably seated on a neutral upholstered armchair, facing slightly LEFT toward the camera, relaxed natural expression and natural hands, wearing a plain charcoal shirt and beige trousers. Both men have short masculine hair and unambiguously male adult appearance. The camera, operator and guest form a physically coherent line of sight, lens aimed at seated guest's face, not at an empty wall. Nobody looks at the photograph's viewer. Large quiet charcoal wall across the entire upper half and the broad middle area for a white HTML headline overlay. Keep the subjects and filming hardware low and toward the sides, not in the central headline space. Real working film-set documentary photography, clean professional composition, sharp realistic camera construction, natural anatomy, controlled cinematic tonal range, beautifully diffused daylight, subtle depth of field but the camera and male guest clearly legible. Premium restrained major-technology-brand visual standard. No visible light fixtures are needed, all illumination comes plausibly from off-frame daylight.\nConstraints: men only, absolutely no women or feminine figures, no feminine silhouettes, faces, hands or reflections anywhere. No visible lighting panels, lamps, reflectors, light stands or cables. No recognizable Apkina products or invented lighting hardware. No camera maker lettering or badges, no logos, branding, text, watermarks or packaging. No blue or orange packaging. No CGI or cartoon effect. Wide photographic image approximately 1920 by 1080 or greater, preserve full composition.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-f0d51c7c-4c79-4005-be21-b8ba2f72897e.png",
+          "outputPath": "dist/assets/creator-bg.webp",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "conversion": {
+            "format": "WebP",
+            "quality": 93,
+            "method": 6,
+            "resize": false,
+            "crop": false,
+            "imageEditing": false
+          },
+          "visualQA": [
+            "Two adult male figures only; no women or female reflections",
+            "Camera lens points directly toward seated male guest's face",
+            "Natural male anatomy and plausible tripod-mounted camera construction",
+            "Quiet upper and central wall provides room for HTML copy",
+            "No visible light fixture creates an orientation mismatch; natural left daylight is consistent",
+            "No visible branding, packaging or text"
+          ],
+          "status": "accepted"
+        }
+      ],
+      "notes": [
+        "Images reviewed visually from generated outputs before installation.",
+        "Generated native 1672 by 941 landscape frames preserved without upscaling or cropping.",
+        "Pillow used solely for format conversion.",
+        "Only the three assigned assets and this prompt manifest were modified."
+      ]
+    },
+    "prompts-photo-refresh-equipment.json": {
+      "mode": "built-in image_gen",
+      "date": "2026-10-10",
+      "assets": [
+        {
+          "name": "charger",
+          "refs": [
+            "/workspace/sites/apkina-creator-gear/dist/assets/charger.webp",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image5.png"
+          ],
+          "transparent": true,
+          "prompt": "Use case: product-mockup. Asset type: premium professional camera-equipment brand catalogue product photograph. Image 1 is the exact unbranded charger identity and silhouette; Image 2 is the original photograph geometry reference, ONLY the left-hand charger, entirely ignore and exclude the package on the right. Produce a new exceptionally sharp premium studio photograph of this exact SINGLE-SLOT NP-F charger, upright in a three-quarter front view with the narrow right side visible. Preserve physical geometry: tall narrow charcoal-black molded plastic body, broader softly beveled upper head, gray recessed rectangular display bezel, ONE small pale light-gray rectangular unlit display inset within it, a single long battery well below the head, original rails and two upper electrical contacts, small central latch/clip near the bottom. No battery inserted for this catalogue shot. Preserve these exact proportions, hardware positions and realistic polymer materials. Improve the optical clarity and surface rendition so all edges are crisp with subtle professional edge highlights and highly controlled softbox lighting; studio commercial camera-equipment photography, realistic matte finish with minute texture, no invented touchscreen or blue-glowing screen, no second charging channel, no extra buttons, no added parts. Full charger entirely within frame with approximately 10% margin, large centered product, portrait aspect ratio. Genuine alpha transparent background, including complete clean edge transparency, no gray or white surface, no shadows outside the object, no glows. Absolutely no branding, logos, lettering, embossed model numbers, legal text, packaging, watermark or decorations. No people, no hands. The product must look like a real professionally photographed physical object, not a blurry extraction or simplistic illustration.",
+          "generatedSource": "/workspace/scratch/b102af18db90/generated_images/exec-04b5ef1d-570c-408c-a8c3-c313ae501eb4.png",
+          "output": "dist/assets/charger.webp",
+          "conversion": "Pillow thumbnail only, max 1400 long edge; lossless WebP preserving alpha",
+          "qa": "Viewed original photo, existing cutout and new generated PNG. Preserved tall narrow single-slot charcoal housing, wider beveled head, gray inset bezel, small pale display, rails and two contacts, lower latch. Clean sharp materials, no branding or packaging, no humans. RGBA includes genuine zero alpha outside product; lossless WebP preserves alpha. No hardware additions."
+        },
+        {
+          "name": "sab234",
+          "refs": [
+            "/workspace/sites/apkina-creator-gear/dist/assets/sab234.webp",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image9.png"
+          ],
+          "transparent": true,
+          "prompt": "Use case: sketch-to-render, product-mockup. Asset type: premium camera-equipment catalogue photograph on transparent background. Image 1 is the existing photorealistic reference of the exact SAB234 tripod engineering. Image 2 is the supplied packaging photograph: ONLY its white technical drawing describes the intended compact tripod. Ignore and exclude all packaging, colors and writing. Create a new supremely sharp photorealistic studio catalogue product image of this exact unbranded black aluminium camera tripod opened in a stable three-legged stance, moderately extended, seen three-quarter front. Preserve the same compact three-way pan-and-tilt head with level quick-release plate, top mounting screw, rounded tilt housing, prominent right-side ridged control knob, slanted pan handle, side carry-handle character, vertical center column, three segmented round aluminium legs, EXACTLY THREE broad flip-clasp locks on EACH leg (nine locks total), and broad molded rubber feet. Preserve reference head engineering and proportions; do not use a ball head or add a camera. Preserve realistic central bracing that belongs to reference. Leg geometry must be straight, joints physically connected, feet symmetrical on a stable plane, no malformed or melted parts. Real satin-black aluminium and matte polymer with restrained light-gray machined edge highlights, natural precise surface texture. Professional medium-format commercial product photography with controlled large softboxes, crisp fine detail throughout, balanced black materials visible in highlights, believable subtle reflections, no exaggerated chrome. Full tripod from plate to all three feet completely within portrait frame, centered with generous 8% clear margin, no crop. Genuine transparent alpha background including all spaces between legs, no background plane, no gray/white backdrop, no ground shadow, no colored glow. No branding, no logos, no words, no model numbers, no text, no packaging, no watermark. No people. This is a physical product photograph-quality visualization of supplied engineering, never an outline, line art, wireframe or abstract render.",
+          "generatedSource": "/workspace/scratch/b102af18db90/generated_images/exec-cd79524a-e1c1-4efe-85c8-5e4a1722fe00.png",
+          "output": "dist/assets/sab234.webp",
+          "conversion": "Pillow thumbnail only, max 1400 long edge; lossless WebP preserving alpha",
+          "qa": "Viewed packaging line drawing, existing photorealistic product reference and new generated PNG. Retained rounded three-way pan/tilt head, ridged side knob, plate screw, slanted handle, center column and bracing, exactly three flip clasps per leg and three broad rubber feet. Sharp complete product, unbranded and package-free. Genuine transparent alpha in background and leg gaps. Geometry remains an inferred visualization because supplied original is packaging line drawing."
+        },
+        {
+          "name": "charger-in-use",
+          "refs": [
+            "/workspace/scratch/b102af18db90/generated_images/exec-04b5ef1d-570c-408c-a8c3-c313ae501eb4.png",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image5.png"
+          ],
+          "transparent": false,
+          "prompt": "Use case: product-mockup, compositing. Asset type: premium professional camera equipment in-use commercial website photograph, landscape aspect ratio 16:9. Image 1 is the exact unbranded single-slot charger identity; image 2 is geometry support ONLY for the left-hand real charger, ignore all packaging. Create an impeccably sharp professional photographic scene on a quiet dark charcoal filmmaker's preparation desk. The EXACT charger from image 1 lies safely face-up diagonally in the foreground; a SINGLE plain black NP-F970 battery is seated properly in its sole long charging slot with contacts aligned to the upper slot contacts. Its broad upper head, original recessed gray bezel and ONE pale light-gray small rectangular display remain unobstructed and clearly visible. Preserve exact original tall narrow housing, sloping shoulders, molded charcoal polymer, single set of rail sides, recessed well, and no invented controls or touchscreen. A plausible black power cable plugs into the side/top edge of the charger and runs calmly out toward background; show its physical connector connection rather than a floating unrelated cable. One compatible spare plain NP-F battery rests nearby on the desk for context, separate from the charger, no duplicate slots. An unbranded compact professional camera is placed farther back softly defocused. No human or hands anywhere. Restrained sophisticated neutral cinematographic lighting, clean organized tabletop, subtle warm-white softbox highlights on black edges, believable contact shadows under charger and battery, real fine plastic and desk texture, optical medium-format photography quality, premium brand campaign art direction. The complete charger in-use is tack sharp and prominent, realistic palm-sized proportions relative to the camera, uncluttered balanced composition with generous space, elegant restrained depth of field. No words, no screen text, no logos, no branding anywhere, no packaging of any color, no retail box, no watermark. Avoid distorted hardware, invented battery channels, melted geometry, floating objects and flashy colored LEDs.",
+          "generatedSource": "/workspace/scratch/b102af18db90/generated_images/exec-924fd69c-fc9c-4b32-8b5c-1ec0b958cc1a.png",
+          "output": "dist/assets/charger-in-use.webp",
+          "conversion": "Pillow RGB conversion and resize only to 1600x900; WebP quality 94",
+          "qa": "Viewed generated scene. One compatible plain NP-F battery sits plausibly in sole slot, display head and side rails remain visible. Power cable shown connected at upper-right charger edge. Spare battery on desk and background camera for context. No people/hands, no packaging, logos or letters. Contact shadows and material textures credible; sharp charger. Connector insertion into hidden/unseen source socket necessarily inferred."
+        },
+        {
+          "name": "sab234-in-use",
+          "refs": [
+            "/workspace/scratch/b102af18db90/generated_images/exec-cd79524a-e1c1-4efe-85c8-5e4a1722fe00.png"
+          ],
+          "transparent": false,
+          "prompt": "Use case: product-mockup, compositing. Asset type: premium camera-equipment product-in-use commercial website photograph, landscape 16:9. The supplied image is the authoritative unbranded SAB234 tripod identity. Create a polished, optically sharp medium-format commercial photograph of this SAME black three-way-head tripod supporting a compact plain black mirrorless camera during a professional still-life shoot. The scene must make immediate physical sense: tripod and securely mounted camera in the left-middle foreground, a male photographer behind the camera to its left carefully looking through the viewfinder and lightly holding camera grip, and a plainly visible small still-life of elegant unbranded black and stone ceramic vases on a low table on the RIGHT of the frame. The mounted camera's lens points clearly RIGHT toward the visible vases. The photographer's face/viewfinder, camera lens axis and vases are aligned correctly. No person posing as the photographic subject. Only one adult man, dressed in restrained charcoal studio clothing; absolutely no woman, no female figure or reflection, no poster/portrait. Show the complete tripod from camera plate to all three rubber feet fully grounded on a warm-gray studio floor, with realistic coherent contact shadows. It is the clear product hero, occupying about half the height; retain the supplied exact compact rounded three-way pan-and-tilt head, level quick-release camera plate, right-side ridged tightening knob, slanted control handle, center column, subtle support brace, three segmented aluminium legs. VERY IMPORTANT: exactly THREE broad flip-clasp locks on EACH of the three legs, nine locks total, visible and correctly spaced; no fourth clasp on any leg. The camera is firmly attached to plate without floating or impossible screw. Hands are anatomically credible, one on camera grip, other lightly adjusts existing head knob without concealing it. A spacious sophisticated professional studio with a neutral graphite background, realistic soft directional daylight and subtle warm-white equipment highlights, no visible additional lights facing the wrong direction. Vases visibly and naturally lit, controlled stylish restrained atmosphere, uncluttered art direction. Entire tripod and its head tack sharp, credible material texture and optical clarity; still-life and male photographer recognizable, moderate depth of field, not blurry or smeared. Perspective and camera scale realistic; straight tube legs, joints mechanically connected, stable feet. No logos, no branding, no lettering or model/legal text on any object, no packaging at all, no orange or blue retail box, no watermark, no illustration or line art. Photo quality should be suitable for a globally leading premium camera equipment brand.",
+          "generatedSource": "/workspace/scratch/b102af18db90/generated_images/exec-723a36a8-e595-450c-aea8-59f9b3faf6e9.png",
+          "output": "dist/assets/sab234-in-use.webp",
+          "conversion": "Pillow RGB conversion and resize only to 1600x900; WebP quality 94",
+          "qa": "Viewed generated scene. One adult male photographer behind mounted camera, lens points clearly right toward visible inanimate ceramic still-life. Camera plate securely supports camera; head recognizable, hands coherent. Full tripod grounded at three feet, three clasps per leg visible (nine total). No woman/female figures/reflections, branding, letters or packaging. Clean premium neutral studio photograph; product and photographed objects optically sharp."
+        }
+      ],
+      "limitations": "SAB234 materials, unseen hardware and opened-leg engineering are inferred from the supplied packaging line drawing and established site reference. These are photorealistic visualizations; no unboxed original tripod photograph was supplied. Charger power-socket location in in-use scene is physically plausible but unseen in source."
+    },
+    "prompts-photo-refresh-large.json": {
+      "mode": "built-in imagegen",
+      "requested": "Refresh all product photography with physically plausible lighting and only male/inanimate subjects. AP1000 main image is the exact native user's Figma image, installed separately by root.",
+      "assets": [
+        {
+          "name": "300w",
+          "references": [
+            "dist/assets/300w.webp (prior clean target)",
+            "source/reference-images/image3.png"
+          ],
+          "generated": "/workspace/scratch/b102af18db90/generated_images/exec-57138705-5172-4716-8698-69247cca89e4.png",
+          "output": "dist/assets/300w.webp",
+          "prompt": "Use case: product-mockup and precise-object-edit. Asset type: premium professional lighting-brand catalog product photograph, true transparent background. Image 1 is the clean unbranded edit target and authoritative exact product geometry; image 2 is original product geometry reference only, ignore ALL writing/diagram/accessories. Rephotograph this EXACT real 300W COB studio light as a superbly sharp commercial product photo, full original three-quarter view, generous clean alpha margin, complete body/yoke/lower mount. Preserve exact silhouette and all features: horizontal dark charcoal ribbed aluminum housing, circular silver white front emitter disk with central narrow yellow vertical COB, black round front Bowens rim, two thin silver horizontal strips along side, large outlined sculpted side tightening knob, rear top curved carry handle, broad black U-shaped yoke and lower cylindrical stand socket. Preserve identity and proportions exactly, no redesign, no generic substitution. The product is UNLIT. Use tasteful precision studio lighting so black surfaces remain dark but details are legible, crisp edge highlights, faithful fine material texture without oversharpening. Create actual photoreal hardware with reliable sharp geometry, not a drawn outline, not plastic CGI. No stand beyond existing socket, no extra accessories, no background, no cast shadow plane. No lettering or logo anywhere on product, no model number, no old brand symbol, no packaging, no watermark. Transparent alpha background must be genuine. Premium crisp camera-product campaign standard; preserve all correct original product parts.",
+          "qa": "Input and output inspected with view_image. Exact front-left three-quarter body preserved: silver circular face, yellow central COB, ribbed horizontal body, silver strips, outlined knob, rear handle, U yoke and stand socket. Product unlit and entirely unbranded. Genuine RGBA alpha range 0\u2013255 verified. Output 1254\u00d71254 lossless alpha WebP; no enlargement. WebP lossless exact=True preserves complete native RGBA bytes, confirmed byte-for-byte equal to PNG. Independent dark/white matte review passed; transparent RGB decoder artefacts eliminated by exact conversion."
+        },
+        {
+          "name": "300w-in-use",
+          "references": [
+            "dist/assets/300w.webp (refreshed)",
+            "source/reference-images/image3.png"
+          ],
+          "generated": "/workspace/scratch/b102af18db90/generated_images/exec-4c0eba8a-6570-4637-9ce4-c2573f95d60f.png",
+          "output": "dist/assets/300w-in-use.webp",
+          "prompt": "Use case: product-mockup. Asset type: widescreen 16:9 ultra-premium professional studio lighting brand editorial campaign photograph. Input image 1 is exact unbranded 300W COB light identity reference, preserve its body/yoke/knob/ribs/handle. Input image 2 is original geometry reference only, ignore all its text/accessories. Scene is a minimal high-end photography studio shooting a MALE portrait. Compose from the SIDE of the shoot so actual equipment direction is unambiguous: on the LEFT foreground, this exact light sits correctly clamped onto one sturdy studio stand, with its back end nearer the camera left and its ROUND FRONT EMITTING DISK physically facing RIGHT toward an adult MAN seated at right middle distance about 2 metres away. Camera viewpoint sees the product's SIDE and THREE-QUARTER REAR, NOT a front-facing emitter aimed at the viewer. Clearly show same horizontally ribbed charcoal rectangular aluminum housing, top rear carry handle, two fine silver side strips, same sculpted side knob, black U-shaped yoke and cylindrical stand socket. Keep the front circular disk on the rightmost end of the light and aim its optical axis directly at the man's face. Man is entirely IN FRONT OF emitting face and facing toward key light; well-dressed adult man in a dark neutral shirt seated on understated stool. A plain camera on tripod unobtrusively at frame centre-back aimed toward man; its axis plausible to capture his portrait while light is 45 degrees to camera axis. Actual key light creates soft realistic illumination on man's left facial cheek and plausible nose/face shadows across opposite cheek; no theatrical visible beam, no smoke/fog. Clean charcoal studio cyclorama, quiet premium cinematic photographic palette, high clarity and fine actual metal/plastic texture. Product remains crisp prominent hero foreground at realistic size, male portrait softly but clearly visible. Power cable runs from rear down stand safely. Entire stand top and yoke attached correctly; floor contact believable, no floating hardware, no invented arms. Do NOT copy the source front-left orientation if that points away from man; rotate the existing exact hardware in 3D to physically point at the subject. No female subject, no women, no female hands, no background people or reflections. No brand, no logo, no text, no watermark, no orange/blue packaging, no extra lamps, no generic redesign. Commercial photography worthy of a flagship camera equipment brand; precisely staged, beautiful clean restrained lighting, not a sketch or CGI illustration.",
+          "qa": "Input/output inspected with view_image. Product at left seen from side/rear with emitter at right end directly aimed toward seated male on right; male is in front of emitting face. Key illumination falls on lamp-facing cheek. Light uses original body/handle/ribs/silver stripes/knob/U yoke clamped to real stand, power rear lead down stand. Camera points toward male and sits below lamp axis. Only one adult man, no women or background people, no branding or packaging. Source 1672\u00d7941 converted/resized only to 1600\u00d7900 WebP quality 94."
+        },
+        {
+          "name": "ap1000-in-use",
+          "references": [
+            "source/brand/ap1000-figma-original.png"
+          ],
+          "generated": "/workspace/scratch/b102af18db90/generated_images/exec-4a674d5b-33f5-450e-82ec-30bf1c672058.png",
+          "output": "dist/assets/ap1000-in-use.webp",
+          "prompt": "Use case: product-mockup. Asset type: widescreen 16:9 premium lighting brand product-in-use commercial photograph. Input image 1 is the EXACT AP1000 product from the user's Figma source; it is the authoritative identity reference, not stylistic inspiration. Preserve its real silhouette, proportions, texture and assembly carefully. Build a realistic photographic use scene around this exact unbranded hardware. Product invariants: a tall handheld professional RGB strip light, luminous purple central longitudinal strip containing discrete individual white/pale LED points, black rounded collar clamps at top and bottom, broad long FLAT matte black barn door at one side, longitudinal ribbed black barn door at the other, and the same slender lower black handle. Preserve exact reference dimensions and asymmetric door profiles. Do not substitute a smooth rectangular panel or ribbed glowing tube, do not add knobs, stands, cables, controls, extra doors or joints.\nScene: clean sophisticated charcoal photographic studio; on frame left an adult MALE photographer in plain dark charcoal clothing holds the slender black lower handle naturally in his right hand at portrait face height. On frame right an adult MALE portrait sitter in a cream or neutral shirt sits calmly on a simple stool. All humans are adult men; no women, female hands, figures or reflections. A plain unbranded camera hangs correctly at photographer chest as they set the light. Product is between men at centre-left, clearly identifiable and in sharp focus with its whole body and top/bottom clamps visible; hand covers only part of handle. Product size realistic in relation to hand and torso.\nCrucial physics and camera viewpoint: view the device from a 45-degree SIDE/front oblique angle that allows us to see purple central strip AND side/barn doors, with the emitting strip's outward normal aimed RIGHT directly toward sitter's nearest cheek. The sitter is visibly in front of the emitting plane, never behind the rear housing. Rotate the exact referenced light into this physically correct orientation instead of retaining an incorrect frontal display pose. Modest purple fill visibly falls onto the sitter's lamp-facing LEFT cheek and collar, fading naturally across the face while restrained white ambient key light retains natural skin detail. No purple light on the wrong side, no drawn laser beams, no fog, no fantasy aura. Barn doors form believable inward spill control and do not block emitter toward sitter.\nStyle: flagship camera equipment brand campaign standard, impeccably polished actual high-resolution photography, tack-sharp black hardware edges with legible honest material texture, beautiful neutral skin, subtle purple practical RGB fill, quiet studio background with ample breathing room. Moderate depth of field: product and gripping hand critically sharp, male sitter recognisable and detailed, backdrop softly defocused. Correct fingers/thumb and plausible secure grip, no floating hardware. Pure photographic scene, not outline art, no mushy blur on product, no artificial plastic CGI look. Absolutely no branding or logo on device, cameras or clothing; no text, model letters, watermark, orange/blue packaging, boxes, graphic overlays or collage. One coherent realistic landscape 16:9 image.\nInput-reference clarification: reference image includes an opaque dark studio background. Use ONLY the actual physical light as the reference and do not copy that rectangle/backdrop into the new scene. The central violet diffuser has a gently cylindrical curved face bounded by thick rounded black collars; preserve those curved proportions. There are approximately twenty bright diffuse dot sources vertically down its centre, not a blank white diffuser. Frame the whole device upright at roughly 55% of picture height, natural handheld LED wand scale. Keep the broad flat door and ribbed door recognizable in oblique perspective while exposing the emission direction toward the man. The broad barn door must not sit across the path from emitter to sitter.",
+          "iterations": [
+            {
+              "generated": "/workspace/scratch/b102af18db90/generated_images/exec-ada9841b-a3f6-4867-a84e-77c9f72bc240.png",
+              "status": "rejected: frontal-emitter orientation ambiguous relative to sitter"
+            },
+            {
+              "prompt": "Use case: precise-object-edit. Asset type: corrected premium commercial AP1000 in-use photograph. Image 1 is edit target, Image 2 is authoritative exact hardware identity. CHANGE ONLY the handheld lamp's YAW orientation and adjust the gripping hand minimally so the lamp physically points at the seated male portrait sitter on the RIGHT. Preserve all other scene composition, people, poses, expressions, clothing, camera, background, framing and beautiful violet fill lighting.\nThe current device is incorrectly presented like a front-facing catalog shot; correct that. Rotate the whole hardware assembly roughly SIXTY DEGREES to the RIGHT around its vertical handle axis. The emitting face/outward-normal must point diagonally right toward the seated man's nearest cheek, not at the viewing camera. The seated man's face must be IN FRONT of the purple emission surface. Show the lamp from an oblique SIDE/REAR angle, with its back and nearest flat matte-black barn door more visible, and the purple dotted emitter narrower/strongly foreshortened toward the right. The emitting purple surface should be on the product's RIGHT-facing side. The broad matte black baffle is on the far/left-back edge, not across the optical path to the sitter. Physically orient both asymmetrical reference doors with the housing; nearest ribbed door has believable perspective and does not obscure illumination path. Keep exact hardware top/bottom black rounded collars, hinges, roughly20 vertical emitter points, broad flat left barn door, longitudinally ribbed opposite barn door, slender black grip with same proportions. No new hardware. Right hand securely wraps original lower grip naturally.\nDo not change male portrait sitter, photographer, framing, shot scale, light's position in space or the violet light on sitter's lamp-facing cheek. No labels, no logo, no readable text or branding, no watermark, no females, no packaging. Output one clean photoreal landscape16:9 image, product still crisp and professionally lit. This is only a targeted physical-aim correction, not redesign, not scene recreation.",
+              "generated": "/workspace/scratch/b102af18db90/generated_images/exec-a3919781-c45e-4364-b555-eaf65bc1fed4.png",
+              "status": "rejected: orientation correction too small; still frontal"
+            },
+            {
+              "prompt": "Use case: precise-object-edit. Image 1 is edit target; image 2 is exact authoritative AP1000 hardware reference. CRITICAL aim correction only. Preserve scene, two men, white shirt, portrait face, dark studio, camera hanging from photographer, photographic quality, framing and seated man's purple cheek illumination. ROTATE THE WHOLE HANDHELD LIGHT to a clear SIDE/REAR VIEW facing directly RIGHT AT THE SEATED MAN. The current purple face is wrongly pointed toward viewing camera. We need to see the device mainly FROM BEHIND instead. Turn it until the camera sees its matte-black BACK surface and strongly foreshortened side/barn doors, with almost all purple emitting face HIDDEN because it points away from us to the RIGHT toward sitter. Purple emitter should be visible ONLY AS A VERY THIN SLIVER ON THE RIGHT-FACING EDGE. No full front purple stripe facing camera. Think of a phone screen turned directly toward the man while we see the back of the phone. Make emitter front plane aimed directly at sitter's face. The black rear/collar/doors silhouette, rounded clamps, longitudinal ribbed barn-door surfaces and slender cylindrical handle must still be exact to reference, with no invented rear buttons or brand writing. We accept the emitters being mostly hidden; correct direction matters more than a frontal product display. Rotate both barn doors with the whole device and keep their hinges physically consistent. Correct hand naturally grips lower handle and is otherwise unchanged. Product stays vertically upright. Product should remain large, tack-sharp with full top/bottom collars, subtle violet edge illumination. Matching violet light hits lamp-facing man's left cheek/collar. Do not add visible beams, aura or smoke. No new objects, no women, no logo, no text, no package, no graphic overlay. One premium natural commercial photograph, landscape16:9.",
+              "generated": "/workspace/scratch/b102af18db90/generated_images/exec-4a674d5b-33f5-450e-82ec-30bf1c672058.png",
+              "status": "selected: side/rear device view with thin right-facing violet emitter edge directly toward male"
+            }
+          ],
+          "qa": "Exact native Figma input inspected with view_image, all three outputs inspected with view_image. Final is physically unambiguous: device in side/rear view, purple emitting edge points right toward man's face, purple illumination on lamp-facing cheek/collar, no wrong-direction front catalog pose. Black collars/hinges/broad flat door/ribbed opposite door and slender handle correspond to reference geometry in rear-oblique view; no invented controls. Natural man's secure hand grips lower handle. Two adult men only, no women/female hands/reflections, no branding, packaging, text or watermark. Product stays tack sharp and entirely visible. Source 1672\u00d7941 converted/resized only to 1600\u00d7900 q94 WebP. Root owns unchanged native Figma cutout separately."
+        }
+      ]
+    },
+    "prompts-photo-refresh-panels.json": {
+      "date": "2026-10-10",
+      "tool": "built-in image_gen",
+      "purpose": "Replace panel product photos throughout Apkina with sharp premium single-product catalog cutouts and physically sensible male/object-only usage scenes",
+      "conversion": "Pillow used only resize/format conversion. Cutout alpha preserved with exact=True in lossless WebP; maximum long edge1400px. Usage resized1600x900, WebP quality94, method6. No retouching/compositing/cropping by code.",
+      "assets": [
+        {
+          "slug": "ap3150",
+          "asset": "dist/assets/ap3150.webp",
+          "inputReferences": [
+            "/workspace/sites/apkina-creator-gear/dist/assets/ap3150.webp",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image2.png"
+          ],
+          "prompt": "Use case: precise-object-edit + background-extraction. Asset type: premium product catalog photograph. Input 1 is the cleaned unbranded AP3150 hardware; input 2 is its original photograph for exact geometry only. Create a new sharper commercial studio product photo of ONE AP3150, using the exact rear-facing straight-on view from the inputs. This is the actual slim 151mm wide x79mm high x11mm light. Preserve the wide 1.9:1 rounded rectangle, smooth flat charcoal-grey metallic rear plate, thin black perimeter, small dark rectangular screen in upper right, original right-side controls, original rainbow calibration strip at lower left, and two discreet lower-right USB functional port labels. Keep every hardware feature in its original position. Blank logo/model/legal print areas. Refined photographic surface detail, realistic black bevel and controlled softbox highlights; razor sharp, no low resolution blur, no excessive texture or plastic CGI appearance. Entire ONE product occupies about75% of canvas width with even breathing room, frontal view, no perspective distortion. GENUINELY TRANSPARENT alpha background, no scene or backdrop, no shadow beyond product. Do not add ribs, batteries, stands, extra views, new controls, branding, logo, model writing, packaging, captions, watermark or checkerboard. This must read as a meticulous professional catalog photo of supplied hardware, not a redesign.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-08010c0c-3790-413f-b5aa-3bc9156ef74f.png",
+          "qa": "Single original rear-facing slim panel retained; sharp clean grey metal, no logo or packaging. Genuine RGBA transparency."
+        },
+        {
+          "slug": "ap3150",
+          "asset": "dist/assets/ap3150-in-use.webp",
+          "inputReferences": [
+            "/workspace/scratch/b102af18db90/generated_images/exec-08010c0c-3790-413f-b5aa-3bc9156ef74f.png",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image2.png"
+          ],
+          "prompt": "Use case: compositing. Asset type: premium product-in-use commercial photograph for professional camera accessories brand. Input1 is the exact unbranded AP3150 slim light rear; input2 is original geometry only. Make a landscape16:9 photographed real studio tabletop setup with ONLY inanimate objects, absolutely no people or hands. A small unbranded professional camera on a solid compact tabletop tripod is placed in lower middle foreground, rear facing our viewpoint and lens pointing directly away from us toward one beautiful off-white sculptural ceramic vase in the central middle background. ONE AP3150 is physically mounted horizontally on a small cold-shoe adapter directly on camera. Its rear face faces viewer, and its emitting opposite front points DIRECTLY AWAY from viewer toward that ceramic vase. The vase sits directly beyond and ABOVE the panel in image so the direction of light is unmistakable, not off to the side or behind the light. Camera lens and light front both aimed at same vase. Photograph from behind camera/panel at a slightly elevated angle, seeing camera rear and top and panel grey rear clearly. The exact panel occupies about28%frame width, width151mm approximately equal to camera width, body79mm high and only11mm thin. Panel mounted coherently, never floating. Lock hardware to supplied photograph: completely FLAT grey rear with thin black rim, original rounded corners and wide1.9:1ratio, small dark rectangular screen upper-right, right vertical functional controls, rainbow colour scale lower-left, no ribs, no battery housing, no new grips. Keep all device geometry sharp, recognizable and unbranded. Neutral daylight studio, pale grey tabletop and seamless wall, soft white light from actual panel catching vase front which faces camera, realistic ordinary shadows and no drawn beams. A discreet charging cable may trail naturally out of existing bottom-right USB-C edge toward table. Clean elegant premium photography, realistic matte and metal surfaces, tack sharp product and natural moderate background depth, perfectly controlled highlights, no smearing, no fake CGI. No people, women, silhouettes, hands, faces, logos, model writing, packaging, orange/blue boxes, text overlays, extra lights or branding anywhere. View is behind actual light; never turn emitting face toward viewer merely to display the product.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-1b02b034-3b00-4e35-a6de-f586587506db.png",
+          "qa": "Only inanimate ceramic/tabletop props. Panel rear faces viewer; hidden emitting front and camera lens face the vase directly beyond/above panel. Coherent cold-shoe mount and cable. Product sharp and recognizable."
+        },
+        {
+          "slug": "ap3250",
+          "asset": "dist/assets/ap3250.webp",
+          "inputReferences": [
+            "/workspace/sites/apkina-creator-gear/dist/assets/ap3250.webp",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image4.png"
+          ],
+          "prompt": "Use case: precise-object-edit + background-extraction. Asset type: premium product catalog photograph. The supplied inputs show rear and front views of ONE AP3250 light. Select ONLY foreground grey rear-facing device and create a sharp professional studio photograph of that SINGLE physical product, rear-facing three-quarter angle matched closely to the source. Remove the second white panel entirely. Do not show a collage or duplicate device. Actual body151x79x18mm, broad slim grey rounded rectangle. Preserve exact foreground rear geometry: X-shaped recessed ribs, fine diagonal vents at left, little inset dark functional display at right, far-right vertical control positions, rainbow scale at lower middle, threaded circular mounting hole on bottom edge, and USB-C opening on bottom-right edge. Grey metallic housing, authentic bevels and crisp machining, sophisticated neutral studio softbox reflections with restrained black edge shading. Do not redesign geometry or change feature arrangement. Blank all branding/model/legal text; no logo or model title. ONE entire product within frame occupying75% of canvas width with balanced empty margins. Genuine transparent alpha background; no floor, no scene, no extra product/view, no added stand or accessories, no ghost pixels, no packaging, watermark, captions, or fake checkerboard. This is high-end commercial photography matching actual hardware, never a generic replacement device.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-e2bec378-da5e-400e-8d09-3771a25ba278.png",
+          "qa": "Single grey rear-facing AP3250, second alternate white view removed. Original recessed X back, diagonal grooves and control arrangement preserved. Functional display and scale retained. Final targeted imagegen alpha-perimeter cleanup reduced stray pixels at right/bottom; exact=True lossless WebP preserves actual alpha and hidden RGB. All hardware sharp, no branding/packaging.",
+          "initialGeneratedPath": "/workspace/scratch/b102af18db90/generated_images/exec-4ca0db90-200d-4e6b-a890-b3ec7cde17a9.png",
+          "refinementPrompt": "Use case: background-extraction + precise-object-edit. Edit target is the supplied SINGLE AP3250 product cutout. Only correct its alpha mask/perimeter: erase ALL stray bright horizontal/vertical lines, isolated alpha pixels, fringe debris and background fragments outside its actual rounded rectangular grey device silhouette, especially top edge, bottom edge and far-right lower corner. Tight clean anti-aliased cutout tracing the hardware; ALL empty outer area completely transparent. KEEP exact original photograph, same single device, same position and angle, same grey metal texture, recessed X ribs, diagonal vents, functional screen, rainbow calibration strip and threaded hole. Do not change any product hardware or materials, no scene/backdrop/lighting effect/glow/shadow, no extra views or objects. Fully opaque hardware, zero pixels or haze outside silhouette. Balance same existing clear margin. Genuinely transparent RGBA commercial catalog cutout with professional flawless clean edge.",
+          "refinementInputReferences": [
+            "/workspace/sites/apkina-creator-gear/dist/assets/ap3250.webp"
+          ]
+        },
+        {
+          "slug": "ap3250",
+          "asset": "dist/assets/ap3250-in-use.webp",
+          "inputReferences": [
+            "/workspace/sites/apkina-creator-gear/dist/assets/ap3250.webp",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image4.png"
+          ],
+          "prompt": "Use case: compositing. Asset type: premium product-in-use commercial studio photograph. Input1 and2 show front and rear views of ONE specific AP3250 RGB panel. Select ONLY the rear device for one physical panel; never duplicate the white alternate view. Create landscape16:9 photograph with ONLY inanimate objects, no people or hands. Composition from DIRECTLY BEHIND one AP3250 on a short black tabletop light stand in the LOWER CENTRE foreground. Its broad grey REAR faces us essentially straight-on. Its white-emitting FRONT is hidden on opposite side facing DIRECTLY AWAY from us toward a tall sculptural translucent glass bottle on a white plinth in CENTRE mid-background. Place bottle directly beyond and ABOVE the panel along its optical axis in image; light front and subject are aligned, never subject off right while panel points ahead. Show realistic soft violet fill on the side of bottle facing this light; no visible beams. An unbranded professional camera on its own tiny tripod at lower-right foreground is also oriented away from us toward that SAME bottle, its lens axis converging on bottle. The obvious working studio arrangement must be physically sensible. One panel occupies28%of image width and is sized151x79x18mm, tiny appropriate stand. A thin black charging cable from existing bottom-edge USB-C port trails naturally down stand to tabletop. Lock product geometry: broad grey rounded rectangle, original recessed X-shaped rear ribs, left diagonal ventilation grooves, small functional display at right, original far-right vertical controls, rainbow calibration strip at lower middle, existing central bottom threaded hole with stand adapter fitted in it. No product branding, no changed control positions, no invented batteries/screens, no second device. Calm charcoal-grey/white professional studio, restrained deep violet accent only reflected on glass, refined commercial photography, sharp product with clean detailed machining, accurate perspective, no blurry edges or cheap fake render. No women, men, hands, faces, humans, silhouettes, logos, model/legal print, packaging, bright orange/blue boxes, watermarks or captions. Preserve genuine actual light design. The REAR must face viewer and hidden emitting front must point to subject beyond it, not toward viewing camera.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-fcaf9eb9-e0b2-4551-a256-4364e936ea11.png",
+          "qa": "Inanimate glass vase only. Product rear faces viewer and emitting opposite side faces directly beyond it toward vase; camera at right converges on same vase. Existing lower mount and USB-C cable coherent. No separate duplicate panel."
+        },
+        {
+          "slug": "ap336",
+          "asset": "dist/assets/ap336.webp",
+          "inputReferences": [
+            "/workspace/sites/apkina-creator-gear/dist/assets/ap336.webp",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image8.png"
+          ],
+          "prompt": "Use case: precise-object-edit + background-extraction. Asset type: premium product catalog photograph. Input images show FRONT and REAR views of one AP336 LED light. Select ONLY top FRONT view and photograph ONE actual AP336, front facing perfectly straight-on in a professionally lit studio. No second rear device, no paired-view collage. Preserve supplied front construction exactly:155x90x24mm wide shallow black rounded rectangle; original broad black border thickness; clear cover; blue-grey inset board with a precisely aligned grid of24 columns x14 rows=336 small discrete square LEDs. Alternating pale warm-yellow and pale-white columns, all square diodes uniform and count matched to actual reference. Light switched off so each LED is sharp and distinguishable, no glowing solid white diffuser. Realistic matte black plastic and delicate clear-cover reflections, exceptionally crisp high-end photographic craft without invented texture. Entire single product within frame with12%clear margin; flat frontal perspective and original proportions. Genuine alpha-transparent background, no added floor/shadow/scene. No branding/model text/watermark, no packaging, no duplicate, no new ribs, no new controls or accessories, no fantasy light emitter or CGI look. Retain exact actual product identity while delivering a clean professional catalog photograph.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-19d9f0a6-f562-43ee-9dd6-72f50610a446.png",
+          "qa": "Single clean front-view AP336 rather than two-view collage. Visually inspected regular 24-column x14-row discrete LED grid, black border and supplied front proportions. No logo/packaging; true alpha."
+        },
+        {
+          "slug": "ap336",
+          "asset": "dist/assets/ap336-in-use.webp",
+          "inputReferences": [
+            "/workspace/sites/apkina-creator-gear/dist/assets/ap336.webp",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image8.png"
+          ],
+          "prompt": "Use case: compositing. Asset type: premium professional interview behind-the-scenes photograph. Image1 and2 show two views of ONE AP336. Use ONLY bottom REAR view as visible surface of ONE actual light. Generate landscape16:9 photographed interview in a calm modern neutral studio. ONE ADULT MAN, approximately40years, short hair, simple dark charcoal overshirt, is seated upright in the CENTRAL mid-background facing a camera. No other people or hands. From directly behind and slightly above a compact unbranded video camera on a real black tripod in LOWER CENTRE foreground, show AP336 horizontally mounted above camera using a short cold-shoe ball adapter. The BLACK REAR face of panel faces our viewpoint squarely. The LED-emitting front is opposite and hidden, aimed DIRECTLY AWAY from us toward the seated man. Camera lens below panel also aims directly toward same man. His upper body and face appear ABOVE panel in image, directly on the lens/light axis, so alignment is clearly physically correct. One actual product155x90x24mm, roughlysamewidth as camera, occupies25%framewidth; never oversized wall panel. Exact rear invariants from supplied bottom view: horizontal black rounded shallow frame, original narrow top/bottom vent slots, large EMPTY recessed battery bay on right two-thirds, tiny metallic contacts and catches inside, blank small white rectangular label insidebay, exact two lowerleft round controls/connection, four tiny indicator holes aboveleft, original flat centre bottom mounting protrusion naturally joined to camera adapter. Use its EXISTING round DC socket at lowerleft for a slender black cable running down tripod, so light is powered despite empty battery bay. DO NOT invent protruding battery, generic screen, new ports, handle, ribs, or front LED face. Camera rear details believable and unbranded. Soft white fill naturally illuminates MAN'S face from real panel/camera direction; neutral studio ambient lighting with understated warm background, no fake beams or blownout exposure. Product is tacksharp with real matte material and dimensional hardware, man moderately focused and recognizably male, natural anatomy and premium commercial photographic grading. No women or feminine people anywhere, no background faces, no female silhouettes/hands, no logos/brand/model text, no packaging, watermark or text overlay. One light, one camera, one ADULT MALE subject. Do not aim light away from subject to display emitter.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-2d41e15a-7230-4b92-80fb-42264fe1bac1.png",
+          "qa": "One adult male interviewee, no other human subjects. Exact rear light features retained, empty battery bay with power cable plugged in original DC socket. Hidden emitter and camera lens aim at man directly beyond/above panel. Real cold-shoe support and unbranded equipment."
+        }
+      ],
+      "rejectedRefinements": [
+        {
+          "slug": "ap3250",
+          "type": "cutout-cleanup",
+          "refs": [
+            "/workspace/scratch/b102af18db90/generated_images/exec-4ca0db90-200d-4e6b-a890-b3ec7cde17a9.png"
+          ],
+          "prompt": "Use case: background-extraction. Edit target: the supplied high resolution photograph of a single grey AP3250 rear-face device. Make ONLY one correction: completely remove every pixel of grey glow, backdrop, floor, haze or shadow OUTSIDE the physical hardware silhouette. Output genuine transparent alpha surrounding the product, clean anti-aliased perimeter, fully opaque hardware. KEEP every product pixel/shape/angle/surface/control/display/rainbow scale/vent/rib/reflection exactly unchanged; do not rerender, recolor or redesign device. Preserve original dimensions and entire product. No scene, no shadow, no glow, no backdrop, no extra device or logo. A premium precise cutout of exact photographed hardware with zero diffuse halo.",
+          "generatedPath": "/workspace/scratch/b102af18db90/generated_images/exec-8981f47b-d9e8-45a6-b687-5201ab1c7803.png",
+          "reason": "Initial alpha was already transparent; refinement unnecessarily rerendered hardware and reduced left margin. Kept first sharper, balanced single-device photograph."
+        }
+      ]
+    },
+    "prompts-photo-refresh-sticks.json": {
+      "mode": "built-in image_gen",
+      "date": "2026-10-10",
+      "request": "Refresh product photography to professional sharp brand imagery, physically credible subject-facing lighting, men or inanimate subjects only, no branding/packaging.",
+      "assets": [
+        {
+          "product": "AP475",
+          "prompt": "Use case: precise-object-edit and background-extraction. Asset: premium sharp ecommerce-free brand product photography, one full unbranded AP475 cutout. Image 1 is the original product hardware photograph; image 2 is the existing unbranded hardware reference. Rephotograph the EXACT SAME object with professional large-format camera crispness, clean smooth edge definition and realistic black materials, preserving the identical silhouette, viewing direction, proportions and all control positions. Same very slim tall cylindrical black light wand, same non-emitting rear view, faceted top cap, long longitudinal grooves, lower embedded controller with small dark screen and four tiny buttons in their original locations, same bottom collar and three original miniature tripod feet including the longer front foot. Do not add a grip: the AP475 uses the exact little tripod shown. Remove all branding, lettering, model numbers and compliance printing. Keep product surfaces naturally unbranded black. Maintain the same original view and design; improve polished photography and subtle studio edge highlights rather than replacing it with a generic tube. Entire physical product in frame from top cap to feet with ample clean margin. Sharply resolved hardware, restrained clear studio highlights, realistic microtexture, no edge halo. Genuine transparent alpha background. No backdrop, no ground plane, no checkerboard baked into image, no shadows outside product, no text, brand, packaging or extra accessories. Square canvas, product centered vertically.",
+          "references": [
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image6.png",
+            "/workspace/sites/apkina-creator-gear/dist/assets/ap475.webp"
+          ],
+          "generated_png": "/workspace/scratch/b102af18db90/generated_images/exec-f7f547db-2271-4076-996b-2573b6c16128.png",
+          "output": "/workspace/sites/apkina-creator-gear/dist/assets/ap475.webp",
+          "qa": "Visually compared with original source: narrow rear-facing wand, lower embedded screen and four controls, exact mini-tripod geometry retained; unbranded; sharper clean highlights; genuine alpha min0/max255.",
+          "conversion": "RGBA lossless WebP, preserve generated alpha, downsize only if long edge exceeds1400px."
+        },
+        {
+          "product": "AP620",
+          "prompt": "Use case: precise-object-edit and background-extraction. Asset: premium sharp brand product photography, one full unbranded AP620 cutout. Image 1 is the original actual hardware reference; image 2 is the prior unbranded product. Rephotograph this EXACT object with refined large-format commercial camera sharpness and clean natural materials, preserving original full silhouette and the identical proportions of tall head to small lower handle. Preserve tall narrow cyan and warm-white illuminated vertical centre strip, the two broad dark vertically ribbed barn-door wings in their exact positions and relative widths, curved metallic top and lower cap details, thin lower black handle with EXACTLY ONE visible round control knob, and the small existing mounting foot/base. Do not make a lightsaber or generic wand. Do not add another control, screen, cable, handgrip, stand or tripod. Original front 3/4 camera direction, matching original cyan-white-warm distribution, metallic and ribbed surface texture sharply visible with realistic highlight falloff. Remove all logos, model writing and branding from handle; plain black surfaces. Full object visible including small original base with modest empty margin, no crop. Real transparent alpha, no fake checkerboard, no backdrop, no ground shadow outside product, no packaging, scenery or extra accessories. One product only, tall portrait canvas.",
+          "references": [
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image7.png",
+            "/workspace/sites/apkina-creator-gear/dist/assets/ap620.webp"
+          ],
+          "generated_png": "/workspace/scratch/b102af18db90/generated_images/exec-18a5a515-d1e0-497d-b863-a4eda75ee4a3.png",
+          "output": "/workspace/sites/apkina-creator-gear/dist/assets/ap620.webp",
+          "qa": "Visually compared with original source: rigid narrow illuminated strip, ribbed barn-door wings, curved caps, small lower handle with exactly one knob, and original base retained; unbranded; genuine alpha min0/max255.",
+          "conversion": "RGBA lossless WebP, preserve generated alpha, downsize only if long edge exceeds1400px."
+        },
+        {
+          "product": "AP475",
+          "prompt": "Use case: compositing. Asset: exceptional premium creator-technology brand product-in-use campaign photography. Generate one wide 16:9 photograph, no words. Image 1 exact unbranded AP475 product; image 2 original hardware geometry reference only, never reproduce text. Setting: refined small professional tabletop still-life studio, charcoal grey background, a smooth clean dark table. Scene includes NO PEOPLE, no hands, no faces. Exact AP475 stands upright at left foreground on its original three tiny tripod feet with the longer front foot, full cap-to-feet visibility and generous margins. Preserve the very slim tall black cylindrical wand, faceted cap, lengthwise grooves, lower embedded dark screen and original four tiny controls, bottom collar, full original proportions. Do not add a handle or alter the tripod. Show the original rear control side nearest our viewpoint; its unseen emitting front is on its far side. PHYSICALLY CORRECT DIRECTION: rotate the whole wand slightly so the front emitting side points diagonally away from our viewpoint toward the photographed still-life in the mid-right background. The object being illuminated is IN FRONT OF that emitting side, never behind it. The product remains mostly the recognizable black rear view, with only a very subtle cyan edge glow on the far rim; do not invent a visible broad luminous face. At mid-right, approximately 40 cm beyond the light, an elegant matte-white sculptural ceramic object and a polished dark camera lens form a minimal still-life, facing the near-left light. A small unbranded studio camera at far right foreground aims its lens toward the still-life, seen 3/4 rear-side; no visible display. The wand provides restrained cyan fill that visibly falls on the NEAR LEFT side of the ceramic object and lens. Neutral soft top light reveals real shapes; background quiet, not a busy room. AP475 product tack-sharp, studio objects sufficiently clear to understand the setup, natural photographic depth and premium crisp material rendering. Full frame is intentional and elegant, all setup directions credible, no visible beams/haze, no neon fantasy. No branding, logos, model lettering, retail packages, orange or blue packaging, captions, watermark, screens or UI. No people of any gender. Landscape 16:9.",
+          "references": [
+            "/workspace/scratch/b102af18db90/generated_images/exec-f7f547db-2271-4076-996b-2573b6c16128.png",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image6.png"
+          ],
+          "generated_png": "/workspace/scratch/b102af18db90/generated_images/exec-05369256-f592-4bf8-a8b3-93ea30376058.png",
+          "output": "/workspace/sites/apkina-creator-gear/dist/assets/ap475-in-use.webp",
+          "qa": "No people. Wand on original mini-tripod, rear controls seen nearest camera, subtle emitting edge directed toward inanimate still-life to the right; cyan falloff on facing left side of ceramic object and lens; separate camera aimed at still-life. Full light body visible; no text/branding/packaging.",
+          "conversion": "RGB WebP quality94, entire source resized to1600x900, no crop."
+        },
+        {
+          "product": "AP620",
+          "prompt": "Use case: compositing. Asset: top-tier professional creator-technology brand campaign photograph of an AP620 light in actual use. Generate one wide 16:9 editorial studio photograph, no words. Image 1 exact unbranded AP620 hardware; image 2 actual original hardware reference, do not copy writing. Quiet premium charcoal portrait studio. ONLY TWO ADULT MEN, both clearly male: male lighting assistant at left foreground, seated adult male portrait subject at right midground wearing a simple unbranded charcoal shirt. No women, female silhouettes, female hands, reflections or bystanders. The AP620 is held upright at left-centre by the assistant with one anatomically natural male hand around ONLY the small lower grip, BELOW its single round knob so knob remains visible. Full light body including top cap, long head, small grip and modest lower mounting foot are in frame with generous top/bottom margin. Preserve exact AP620 rigid vertical head, narrow cyan/soft warm-white luminous center strip, broad ribbed dark barn-door wings, curved metallic end caps, thin lower black grip, exactly one round control knob and original head-to-handle ratio. NEVER replace it with a generic rod/tube, do not add controls. MOST IMPORTANT physical constraint: turn the AP620 to face directly toward the MAN AT RIGHT. Its luminous front and opening between barn-door wings are oriented rightward toward his face, away from the assistant and away from the photography camera. The photographing camera is to the side of the shoot and sees the AP620 at a 3/4 SIDE VIEW: one barn-door wing is foreshortened, the glowing opening visible as an angled narrow strip, clearly opening toward the subject. Do NOT show a frontal product facing the viewer. Place the male subject physically IN FRONT OF its luminous face at right, looking slightly toward the light. Restrained matching cyan rim/fill falls convincingly on the LEFT NEAR SIDE of his face and shoulder while neutral ambient fill preserves skin texture. No fictional visible light beam, smoke or aura. Commercial photography with crisp detailed product, honest anatomical hand, controlled beautiful male portrait, refined matte-black materials, balanced negative space and editorial elegance. No text, logos, brand labels, model numbers, packaging, boxes, orange or blue packaging, watermark or UI. Entire light hardware fully in frame, portrait landscape 16:9.",
+          "references": [
+            "/workspace/scratch/b102af18db90/generated_images/exec-18a5a515-d1e0-497d-b863-a4eda75ee4a3.png",
+            "/workspace/sites/apkina-creator-gear/source/reference-images/image7.png"
+          ],
+          "generated_png": "/workspace/scratch/b102af18db90/generated_images/exec-ca46cf9e-36b0-458c-a7d4-2b916f6fabd6.png",
+          "output": "/workspace/sites/apkina-creator-gear/dist/assets/ap620-in-use.webp",
+          "qa": "Two adult men only. Light held with natural male hand below the one visible knob, whole body visible. Three-quarter side orientation with wide near barn-door and foreshortened far wing; glowing opening points toward male subject at right, matching cyan side light visible on his near face/shoulder. No women, text/branding or packaging.",
+          "conversion": "RGB WebP quality94, entire source resized to1600x900, no crop."
+        }
+      ]
+    }
+  },
+  "supplied_assets": {
+    "ap1000": {
+      "nodeId": "25:9",
+      "imageHash": "8a105d613cb4a2d7acdd55e3f91edf663e271bdd",
+      "source": "source/brand/ap1000-figma-original.png",
+      "output": "dist/assets/ap1000.webp",
+      "width": 1024,
+      "height": 1536,
+      "sourceBytes": 1375285,
+      "sha1": "8a105d613cb4a2d7acdd55e3f91edf663e271bdd",
+      "losslessPixelIdentical": true,
+      "retrieval": "Native Figma image bytes; read-only, no canvas mutations"
+    }
+  },
+  "constraints": [
+    "Only adult men or inanimate subjects; no women or female figures, hands, reflections or background faces",
+    "Light emission and camera lens direction face the photographed subject",
+    "Products and props unbranded; no packaging",
+    "Product geometry follows supplied references, except AP1000 follows the user-selected Figma image"
+  ],
+  "verification": {
+    "allPhotosVisuallyReviewed": true,
+    "nonAP1000IndependentReviewCount": 19,
+    "ap1000OriginalHashMatchesFigma": true,
+    "ap1000WebpPixelsIdentical": true,
+    "ap1000InUseReviewed": "Side/rear view with right-facing violet emitter aimed at male subject; corresponding fill on lamp-facing cheek and collar",
+    "staticChecks": "22 pages, 999 local references, 64 fragment targets; build and static release gates pass",
+    "browserRendering": "Unavailable in managed environment; no browser visual parity claim"
+  },
+  "limitations": "SAB234 is a photorealistic visualisation based on the supplied packaging drawing; unseen details are inferred. Generated scenes are illustrative commercial scenes."
+}

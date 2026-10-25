@@ -1,0 +1,40 @@
+{
+  "provider": "Google Fonts",
+  "sourceCss": "https://fonts.googleapis.com/css2?family=DM+Mono:wght@400&family=Fustat:wght@400&family=TASA+Orbiter:wght@400&display=swap",
+  "fonts": [
+    {
+      "family": "DM Mono",
+      "weight": 400,
+      "style": "normal",
+      "subset": "latin",
+      "file": "DM-Mono-Regular.woff2",
+      "bytes": 8688,
+      "source": "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYthqQBK6PYK0.woff2",
+      "sha256": "fd7521f3531a5ccfc655b25c4f22e9871df3ec141ad79bb27fde20d0df347b6d",
+      "license": "DM-Mono-OFL.txt"
+    },
+    {
+      "family": "Fustat",
+      "weight": 400,
+      "style": "normal",
+      "subset": "latin",
+      "file": "Fustat-Regular.woff2",
+      "bytes": 11516,
+      "source": "https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCEQQdru5tEg6zfievg.woff2",
+      "sha256": "5518ccf5a10de5b7b50a4c4a404577e5e78f8070512b1b1d0cb641a4339b3603",
+      "license": "Fustat-OFL.txt"
+    },
+    {
+      "family": "TASA Orbiter",
+      "weight": 400,
+      "style": "normal",
+      "subset": "latin",
+      "file": "TASA-Orbiter-Regular.woff2",
+      "bytes": 17236,
+      "source": "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVH4Cwpu-9rArCcbYPg.woff2",
+      "sha256": "a60b9ef6c28b94c7820b430dcc6f52fd5a5e01401ecfbd3a1fa2348563f319fa",
+      "license": "TASA-Orbiter-OFL.txt"
+    }
+  ],
+  "licenseSource": "https://github.com/google/fonts/tree/main/ofl"
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "asset": "campaign-bg.webp",
+    "prompt": "Use case: ads-marketing\nAsset type: background-only wide 16:9 website campaign panel, high-resolution photographic image.\nPrimary request: a cinematic professional photo and film studio seen straight on. This is an EMPTY BACKGROUND for real product photos to be composited later.\nScene/backdrop: spacious professional studio, dark matte deep charcoal backdrop illuminated with tasteful deep teal light from left and muted violet-purple from right. Neutral low geometric set plinths only near far left and far right edges. Broad quiet open center and upper-center with minimal texture, suitable for centered HTML headline and later product compositing.\nStyle/medium: sophisticated commercial photography, credible natural materials and soft diffused studio light, fine film grain, real photographic depth.\nComposition/framing: wide landscape 16:9, straight-on camera, low understated floor horizon, restrained atmospheric lighting; generous open central two-thirds of frame.\nConstraints: absolutely no products, no hardware, no lights or lighting fixtures visible, no devices, no cameras, no tripods, no people, no boxes, no packaging, no typography, no logos, no watermarks. Only the empty architecture and set backdrop. Avoid saturated blue and orange packaging colors.",
+    "generation": "built-in image_gen",
+    "source": "/workspace/scratch/b102af18db90/generated_images/exec-40fa1867-b069-4fec-92ed-81b8229263b2.png",
+    "reviewed": true
+  },
+  {
+    "asset": "creator-bg.webp",
+    "prompt": "Use case: photorealistic-natural\nAsset type: background-only wide 16:9 website campaign panel, high-resolution commercial editorial photograph.\nPrimary request: an elegant warm behind-the-scenes creative set during the filming of an interview, photographic realism.\nScene/backdrop: contemporary beige interview studio, two adults seated facing one another in relaxed conversation in the distant background at lower-right-center; warmly lit plaster walls, soft amber sunlight, subtle cyan edge-light contrast.\nComposition/framing: wide16:9 landscape, viewed from behind the set at eye level, very shallow depth of field. One abstract heavily defocused camera silhouette enters only the far lower-left foreground edge; no recognizable camera model or visible details. People remain in the distance occupying lower third. Quiet broad wall and atmospheric negative space across upper center for a large HTML headline.\nLighting/mood: premium documentary photography, soft warm beige and restrained amber with slight cyan contrast, credible natural skin texture, beautiful diffused studio lighting.\nConstraints: no close-up or in-focus product hardware, no lighting fixtures, no logos, no branding on clothing or devices, no boxes, no packaging, no text, no watermarks. Do not render or invent any Apkina products. This background will be used behind real product photos, which are added separately.",
+    "generation": "built-in image_gen",
+    "source": "/workspace/scratch/b102af18db90/generated_images/exec-67187e40-e430-4682-9a43-72c25512168d.png",
+    "reviewed": true
+  },
+  {
+    "asset": "portrait-bg.webp",
+    "prompt": "Use case: product-mockup\nAsset type: background-only wide16:9 website product photography campaign panel.\nPrimary request: minimal contemporary tabletop product photography set, completely empty, with no products or hardware.\nScene/backdrop: a pale powder-blue seamless studio wall and tabletop surface; one sculptural off-white plaster arch and a simple low ivory pedestal positioned in lower-right half, ample quiet pale blue open space in upper center and left.\nStyle/medium: luxury commercial studio photography, real finely textured plaster and matte seamless paper, clean modern set design, natural scale.\nComposition/framing: wide16:9 landscape, clean straight-on tabletop-level view, generously spaced forms and broad empty areas for separately composited real product photos and HTML heading.\nLighting/mood: soft sunlight from one side, elegant believable gentle elongated shadows, airy and polished, pale blue and ivory only.\nConstraints: empty set only. Absolutely no products, no camera equipment, no lights or lighting fixtures, no devices, no cables, no people, no packaging, no orange/blue product boxes, no text, no logos, no watermarks. Do not invent any Apkina product hardware.",
+    "generation": "built-in image_gen",
+    "source": "/workspace/scratch/b102af18db90/generated_images/exec-aabbbcf6-2c24-404d-86e0-343ab4e10b5f.png",
+    "reviewed": true
+  }
+]

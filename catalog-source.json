@@ -1,0 +1,907 @@
+{
+  "source_file": "Apkina Product Images and Specs.docx",
+  "source_path": "/workspace/scratch/b102af18db90/upload/Apkina Product Images and Specs.docx",
+  "product_count": 9,
+  "categories": [
+    {
+      "name": "RGB Tube Lights",
+      "slug": "rgb-tube-lights"
+    },
+    {
+      "name": "LED Panels",
+      "slug": "led-panels"
+    },
+    {
+      "name": "Studio Lights",
+      "slug": "studio-lights"
+    },
+    {
+      "name": "Tripods",
+      "slug": "tripods"
+    },
+    {
+      "name": "Power & Chargers",
+      "slug": "power-chargers"
+    }
+  ],
+  "catalog_notes": [
+    "Category labels and concise descriptions are editorial groupings based on the supplied product types.",
+    "No prices, stock levels, warranty, shipping, contact details or verified accessories are provided.",
+    "Some source paragraphs join the previous product packaging dimensions with the next product name. Specifications were split at the product-heading boundary.",
+    "Generated imagery must omit all retail packaging and product branding."
+  ],
+  "products": [
+    {
+      "slug": "sab234",
+      "exact_name": "Apkina SAB234",
+      "name": "SAB234",
+      "model": "SAB234",
+      "category": "Tripods",
+      "category_slug": "tripods",
+      "description": "A lightweight, collapsible tripod for photography, live streaming and content creation.",
+      "features": [
+        "Lightweight, practical construction",
+        "Collapsible frame for portability",
+        "Suitable for amateur and semi-professional use"
+      ],
+      "specs": [
+        {
+          "label": "Height range",
+          "value": "Approximately 56 in (142 cm), or around 160 cm maximum depending on the variant."
+        },
+        {
+          "label": "Head movement",
+          "value": "Pan/tilt or panoramic movement, depending on the mounted head setup."
+        },
+        {
+          "label": "Carry bag",
+          "value": "Often supplied; inclusion depends on the listing."
+        }
+      ],
+      "packaging_specs": [],
+      "reference_images": [
+        "source/reference-images/image9.png"
+      ],
+      "notes": [
+        "Height is uncertain in the source; do not present 142 cm or 160 cm as a confirmed universal maximum.",
+        "The source image is a closed blue/black retail box, with only a line drawing of the tripod. A generated product image is an illustrative reconstruction.",
+        "Carry bag and head configuration are not confirmed for all variants."
+      ],
+      "source_blocks": [
+        0,
+        7
+      ],
+      "source_text": [
+        "Product: Apkina SAB234",
+        "•  Height Range: Adjustable up to roughly 56 inches (142 cm) / around 160 cm max depending on the specific variant or listing",
+        "•  Design: Lightweight and practical build, ideal for amateur and semi-professional photography, live streaming, and content creation",
+        "•  Head Type: Pan/tilt or panoramic movement capabilities depending on the mounted head setup",
+        "•  Portability: Includes a collapsible frame and often comes packaged with a carry bag"
+      ]
+    },
+    {
+      "slug": "np-f970-fast-smart-charger",
+      "exact_name": "Apkina Fast Smart Charger LED For NP-F970 Battery",
+      "name": "NP-F970 Fast Smart Charger",
+      "model": "NP-F970 Charger",
+      "category": "Power & Chargers",
+      "category_slug": "power-chargers",
+      "description": "A compact charger for Sony NP-F series batteries, with fast charging, LED indicators and safety protection.",
+      "features": [
+        "Compatible with Sony NP-F series batteries",
+        "Fast charging",
+        "LED indicators",
+        "Safety protection",
+        "Portable format for video-light and camera batteries"
+      ],
+      "specs": [
+        {
+          "label": "Battery compatibility",
+          "value": "Sony NP-F series, including NP-F970."
+        },
+        {
+          "label": "Charge indication",
+          "value": "LED indicators"
+        }
+      ],
+      "packaging_specs": [],
+      "reference_images": [
+        "source/reference-images/image5.png"
+      ],
+      "notes": [
+        "The written description calls this a dual battery charger, while the supplied product photo visibly shows one battery slot. Do not state a slot count without confirmation.",
+        "Charging voltage, current, wattage and exact included accessories are not provided.",
+        "Source image includes orange/black retail packaging and product branding; exclude both from generated imagery."
+      ],
+      "source_blocks": [
+        8,
+        11
+      ],
+      "source_text": [
+        "Product Name: Apkina Fast Smart Charger LED For NP-F970 Battery",
+        "The Apkina NP-F970 Fast Smart Charger is a compact and efficient dual battery charger for Sony NP-F series batteries. With fast charging, LED indicators, and advanced safety protection, it’s the perfect portable charger for video lights and camera batteries, ideal for photographers, videographers, and content creators."
+      ]
+    },
+    {
+      "slug": "ap475",
+      "exact_name": "Apkina Ap475 stick light",
+      "name": "AP475 Stick Light",
+      "model": "AP475",
+      "category": "RGB Tube Lights",
+      "category_slug": "rgb-tube-lights",
+      "description": "A 12W RGB stick light with an integrated battery, adjustable colour temperature and 21 lighting effects.",
+      "features": [
+        "12W output",
+        "2500–9900K adjustable colour temperature",
+        "360° full colour adjustment",
+        "21 lighting effects",
+        "5200mAh built-in battery"
+      ],
+      "specs": [
+        {
+          "label": "Power",
+          "value": "12W"
+        },
+        {
+          "label": "Built-in battery",
+          "value": "5200mAh, 3.7V"
+        },
+        {
+          "label": "Colour temperature",
+          "value": "2500–9900K, adjustable"
+        },
+        {
+          "label": "Colour adjustment",
+          "value": "0–360° full colour gamut"
+        },
+        {
+          "label": "Lighting effects",
+          "value": "21"
+        },
+        {
+          "label": "Luminous flux",
+          "value": "1200 lm"
+        },
+        {
+          "label": "Beam angle",
+          "value": "120°"
+        },
+        {
+          "label": "Lighting distance",
+          "value": "3–5m"
+        },
+        {
+          "label": "LED beads",
+          "value": "225"
+        },
+        {
+          "label": "Weight",
+          "value": "320g"
+        },
+        {
+          "label": "Dimensions",
+          "value": "420 × 41 × 38mm"
+        },
+        {
+          "label": "Shell material",
+          "value": "Aluminium alloy + ABS plug + PC cover"
+        }
+      ],
+      "packaging_specs": [
+        {
+          "label": "Colour box dimensions",
+          "value": "515 × 55 × 51mm"
+        },
+        {
+          "label": "Packing quantity",
+          "value": "25 pieces"
+        },
+        {
+          "label": "Full box weight",
+          "value": "14kg"
+        },
+        {
+          "label": "Outer box dimensions",
+          "value": "540 × 290 × 295mm"
+        }
+      ],
+      "reference_images": [
+        "source/reference-images/image6.png"
+      ],
+      "notes": [
+        "Source image shows a slim black stick light on a small three-legged tabletop base. Product branding must be removed in generated images.",
+        "Tripod/base inclusion is not stated in the written specifications."
+      ],
+      "source_blocks": [
+        12,
+        29
+      ],
+      "source_text": [
+        "Product Name: Apkina Ap475 stick light",
+        "Power: 12W",
+        "Built in battery: 5200mAh 3.7V",
+        "Color temperature: 2500-9900K adjustable",
+        "Color: 0-360 ° full color gamut adjustment",
+        "Special effects mode: 21 types",
+        "Luminous flux: 1200LM",
+        "Light angle: 120 °",
+        "Lighting distance: 3-5m",
+        "LED Beads: 225",
+        "Weight: 320g",
+        "Light  size: 420 * 41 * 38mm",
+        "Shell material: aluminum alloy+ABS plug+PC cover",
+        "Color box size: 515 * 55 * 51mm",
+        "Packing quantity: 25 pieces",
+        "Full box weight: 14kg",
+        "Outer box size: 540 * 290 * 295mm"
+      ]
+    },
+    {
+      "slug": "ap336",
+      "exact_name": "apkina ap 336",
+      "name": "AP336 LED Panel",
+      "model": "AP336",
+      "category": "LED Panels",
+      "category_slug": "led-panels",
+      "description": "A 24W LED panel with 336 LEDs, adjustable colour temperature and CRI Ra ≥95.",
+      "features": [
+        "24W output",
+        "336 LEDs",
+        "2700–10000K adjustable colour temperature",
+        "CRI Ra ≥95",
+        "F970, F750 and F550 power compatibility"
+      ],
+      "specs": [
+        {
+          "label": "Power",
+          "value": "24W"
+        },
+        {
+          "label": "Input",
+          "value": "9V/3A DC / F970 / F750 / F550"
+        },
+        {
+          "label": "Colour temperature",
+          "value": "2700–10000K, adjustable"
+        },
+        {
+          "label": "LED beads",
+          "value": "336"
+        },
+        {
+          "label": "CRI",
+          "value": "Ra ≥95"
+        },
+        {
+          "label": "Shell material",
+          "value": "PC + ABS"
+        },
+        {
+          "label": "Net weight",
+          "value": "200g"
+        },
+        {
+          "label": "Dimensions",
+          "value": "155 × 90 × 24mm"
+        }
+      ],
+      "packaging_specs": [
+        {
+          "label": "Colour box dimensions",
+          "value": "200 × 80 × 39mm"
+        },
+        {
+          "label": "Carton quantity",
+          "value": "50 pieces"
+        },
+        {
+          "label": "Gross weight",
+          "value": "12kg"
+        },
+        {
+          "label": "Carton dimensions",
+          "value": "420 × 425 × 220mm"
+        }
+      ],
+      "reference_images": [
+        "source/reference-images/image8.png"
+      ],
+      "notes": [
+        "The supplied colour-box dimensions appear smaller than the product in one axis (80mm vs 90mm); retained only as source packaging data.",
+        "Source image shows front LED matrix and rear battery slot, plus multiple brand marks. Remove all brand marks from generated images."
+      ],
+      "source_blocks": [
+        30,
+        42
+      ],
+      "source_text": [
+        "Product Name: apkina ap 336",
+        "Power: 24W",
+        "Input: 9V/3A DC  / F970/F750/F550",
+        "Colour temperature: 2700-10000K adjustable",
+        "LED Beads: 336",
+        "CRI: Ra≥95",
+        "Shell material: PC+ABS",
+        "Net weight: 200g",
+        "Product size: 155*90*24mm",
+        "Size(Colour box) :200*80*39mm",
+        "Carton quantity: 50pcs",
+        "G.W.: 12kg",
+        "Size(Carton): 420*425*220mm | Product Name: APKINA 3150"
+      ]
+    },
+    {
+      "slug": "ap3150",
+      "exact_name": "APKINA 3150",
+      "name": "AP3150 RGB Panel",
+      "model": "AP3150",
+      "category": "LED Panels",
+      "category_slug": "led-panels",
+      "description": "A slim 10W RGB panel with a 4000mAh built-in battery, 360° colour adjustment and 21 lighting effects.",
+      "features": [
+        "10W output",
+        "2500–9900K adjustable colour temperature",
+        "360° full colour adjustment",
+        "21 lighting effects",
+        "4000mAh built-in battery",
+        "11mm body depth"
+      ],
+      "specs": [
+        {
+          "label": "Power",
+          "value": "10W"
+        },
+        {
+          "label": "Built-in battery",
+          "value": "4000mAh, 3.7V"
+        },
+        {
+          "label": "Colour temperature",
+          "value": "2500–9900K, adjustable"
+        },
+        {
+          "label": "Colour adjustment",
+          "value": "0–360° full colour gamut"
+        },
+        {
+          "label": "Lighting effects",
+          "value": "21"
+        },
+        {
+          "label": "Luminous flux",
+          "value": "1000 lm"
+        },
+        {
+          "label": "Beam angle",
+          "value": "120°"
+        },
+        {
+          "label": "Lighting distance",
+          "value": "3–5m"
+        },
+        {
+          "label": "LED beads",
+          "value": "135"
+        },
+        {
+          "label": "Weight",
+          "value": "250g"
+        },
+        {
+          "label": "Dimensions",
+          "value": "151 × 79 × 11mm"
+        },
+        {
+          "label": "Shell material",
+          "value": "Aluminium alloy + PC"
+        }
+      ],
+      "packaging_specs": [
+        {
+          "label": "Colour box dimensions",
+          "value": "172 × 102 × 50mm"
+        },
+        {
+          "label": "Packing quantity",
+          "value": "40 pieces"
+        },
+        {
+          "label": "Full box weight",
+          "value": "15kg"
+        },
+        {
+          "label": "Outer box dimensions",
+          "value": "520 × 365 × 230mm"
+        }
+      ],
+      "reference_images": [
+        "source/reference-images/image2.png"
+      ],
+      "notes": [
+        "The written heading is APKINA 3150; AP3150 is visible on the supplied product image.",
+        "Reference shows the rear of the product, with a display and controls on the right; remove printed logo, model/legal markings and branding from generated images."
+      ],
+      "source_blocks": [
+        42,
+        58
+      ],
+      "source_text": [
+        "Size(Carton): 420*425*220mm | Product Name: APKINA 3150",
+        "Power: 10W",
+        "Built in battery: 4000mAh 3.7V",
+        "Color temperature: 2500-9900K adjustable",
+        "Color: 0-360 ° full color gamut adjustment",
+        "Special effects mode: 21 types",
+        "Luminous flux: 1000LM",
+        "Light angle: 120 °",
+        "Lighting distance: 3-5m",
+        "LED Beads: 135",
+        "Weight: 250g",
+        "Light  size: 151 * 79 * 11mm",
+        "Shell material: aluminum alloy+PC",
+        "Color box size: 172 * 102 * 50mm",
+        "Packing quantity: 40 pieces",
+        "Full box weight: 15kg",
+        "Outer box size: 520 * 365 * 230mm"
+      ]
+    },
+    {
+      "slug": "ap3250",
+      "exact_name": "APKINA AP3250",
+      "name": "AP3250 RGB Panel",
+      "model": "AP3250",
+      "category": "LED Panels",
+      "category_slug": "led-panels",
+      "description": "A 10W RGB panel with app control, a built-in 4000mAh battery and 21 lighting effects.",
+      "features": [
+        "10W output",
+        "App control support",
+        "2500–9900K adjustable colour temperature",
+        "360° full colour adjustment",
+        "21 lighting effects",
+        "4000mAh built-in battery"
+      ],
+      "specs": [
+        {
+          "label": "Power",
+          "value": "10W"
+        },
+        {
+          "label": "Built-in battery",
+          "value": "4000mAh, 3.7V"
+        },
+        {
+          "label": "Colour temperature",
+          "value": "2500–9900K, adjustable"
+        },
+        {
+          "label": "Colour adjustment",
+          "value": "0–360° full colour gamut"
+        },
+        {
+          "label": "Lighting effects",
+          "value": "21"
+        },
+        {
+          "label": "Luminous flux",
+          "value": "1000 lm"
+        },
+        {
+          "label": "Beam angle",
+          "value": "120°"
+        },
+        {
+          "label": "Lighting distance",
+          "value": "3–5m"
+        },
+        {
+          "label": "App control",
+          "value": "Supported"
+        },
+        {
+          "label": "LED beads",
+          "value": "225"
+        },
+        {
+          "label": "Weight",
+          "value": "200g"
+        },
+        {
+          "label": "Dimensions",
+          "value": "151 × 79 × 18mm"
+        },
+        {
+          "label": "Shell material",
+          "value": "ABS + PC"
+        }
+      ],
+      "packaging_specs": [
+        {
+          "label": "Colour box dimensions",
+          "value": "163 × 90 × 50mm"
+        },
+        {
+          "label": "Packing quantity",
+          "value": "50 pieces"
+        },
+        {
+          "label": "Full box weight",
+          "value": "15kg"
+        },
+        {
+          "label": "Outer box dimensions",
+          "value": "520 × 365 × 330mm"
+        }
+      ],
+      "reference_images": [
+        "source/reference-images/image4.png"
+      ],
+      "notes": [
+        "Reference image shows the rear panel with a geometric ribbed/X-shaped pattern and a front illuminated diffuser. Remove all printed branding."
+      ],
+      "source_blocks": [
+        58,
+        76
+      ],
+      "source_text": [
+        "Outer box size: 520 * 365 * 230mm",
+        "Product Name: APKINA AP3250",
+        "Power: 10W",
+        "Built in battery: 4000mAh 3.7V",
+        "Color temperature: 2500-9900K adjustable",
+        "Color: 0-360 ° full color gamut adjustment",
+        "Special effects mode: 21 types",
+        "Luminous flux: 1000LM",
+        "Light angle: 120 °",
+        "Lighting distance: 3-5m",
+        "APP control ：support",
+        "LED Beads: 225",
+        "Weight: 200g",
+        "Light  size: 151 * 79 * 18  mm",
+        "Shell material: ABS+PC",
+        "Color box size: 163* 90 * 50mm",
+        "Packing quantity: 50 pieces",
+        "Full box weight: 15kg",
+        "Outer box size: 520 * 365 * 330mm | Product Name: APKINA AP620"
+      ]
+    },
+    {
+      "slug": "ap620",
+      "exact_name": "APKINA AP620",
+      "name": "AP620 RGB Light",
+      "model": "AP620",
+      "category": "RGB Tube Lights",
+      "category_slug": "rgb-tube-lights",
+      "description": "A 24W RGB light with app control, adjustable barndoors, an OLED display and 18W fast charging.",
+      "features": [
+        "24W output",
+        "2500–9900K colour temperature",
+        "24 lighting effects",
+        "App control support",
+        "OLED display",
+        "PD/QC fast charging up to 18W",
+        "120° adjustable barndoors"
+      ],
+      "specs": [
+        {
+          "label": "Power",
+          "value": "24W"
+        },
+        {
+          "label": "CRI",
+          "value": "Ra ≥95"
+        },
+        {
+          "label": "Colour temperature",
+          "value": "2500–9900K"
+        },
+        {
+          "label": "RGB",
+          "value": "360° HSI (36000)"
+        },
+        {
+          "label": "Lighting effects",
+          "value": "24"
+        },
+        {
+          "label": "Intensity",
+          "value": "1–100%"
+        },
+        {
+          "label": "Battery",
+          "value": "7.4V / 5200mAh (38Wh)"
+        },
+        {
+          "label": "Battery life",
+          "value": "1.65–12 hours, at maximum–minimum power"
+        },
+        {
+          "label": "Charging time",
+          "value": "2.5 hours with 18W fast charging"
+        },
+        {
+          "label": "Input",
+          "value": "Type-C 5V/2A; 9V/2A (18W maximum)"
+        },
+        {
+          "label": "PD/QC fast charge",
+          "value": "18W maximum"
+        },
+        {
+          "label": "App control",
+          "value": "Supported"
+        },
+        {
+          "label": "Illuminance at 0.3m",
+          "value": "12,700 lux at 9900K"
+        },
+        {
+          "label": "Illuminance at 1m",
+          "value": "1,750 lux at 9900K"
+        },
+        {
+          "label": "LED beads",
+          "value": "72"
+        },
+        {
+          "label": "Beam angle",
+          "value": "45°"
+        },
+        {
+          "label": "Display",
+          "value": "OLED"
+        },
+        {
+          "label": "Shell material",
+          "value": "Aluminium alloy + ABS grip + PC"
+        },
+        {
+          "label": "Barndoors",
+          "value": "ABS; 120° adjustable"
+        },
+        {
+          "label": "Net weight",
+          "value": "845g"
+        },
+        {
+          "label": "Dimensions",
+          "value": "605 × 101 × 47.3mm, barndoors folded"
+        }
+      ],
+      "packaging_specs": [],
+      "reference_images": [
+        "source/reference-images/image7.png"
+      ],
+      "notes": [
+        "The notation RGB: 360° HSI (36000) is reproduced from the source; the meaning of 36000 is not further explained.",
+        "Image shows elongated light with side barndoors and bottom handle; remove logos/branding."
+      ],
+      "source_blocks": [
+        76,
+        98
+      ],
+      "source_text": [
+        "Outer box size: 520 * 365 * 330mm | Product Name: APKINA AP620",
+        "Power: 24W",
+        "Ra≥95;",
+        "CCT: 2500K-9900K",
+        "RGB: 360°HSI (36000)",
+        "Lighting Effect: 24 types",
+        "Intensity: 1%-100%",
+        "Battery: 7.4V/5200mAh (38Wh)",
+        "Battery Life: 1.65-12h (Max-Min power) ",
+        "Charging Time: 2.5h (Fasting charging 18W)",
+        "Input: Type-C 5V/2A; 9V/2A (Max 18W)",
+        "PD/QC Fast Charge: Max 18W",
+        "APP   Control: Support",
+        "Illuminance: 12700Lux (9900K, 0.3m)",
+        "                     1750Lux (9900K, 1m)",
+        "Bead: 72pcs",
+        "Beam angle: 45°",
+        "Display: OLED",
+        "Shell Material: Aluminum alloy + ABS (Grip)+PC",
+        "Barndoor: Material ABS;  120°Adjustable",
+        "NW: 845g",
+        "Dimension: 605*101*47.3mm(barndoor folded)"
+      ]
+    },
+    {
+      "slug": "ap1000",
+      "exact_name": "APKINA AP1000",
+      "name": "AP1000 RGB Light",
+      "model": "AP1000",
+      "category": "RGB Tube Lights",
+      "category_slug": "rgb-tube-lights",
+      "description": "A 24W RGB light with 24 effects, app control and a built-in 5200mAh battery.",
+      "features": [
+        "24W output",
+        "2500–9900K adjustable colour temperature",
+        "360° full colour adjustment",
+        "24 lighting effects",
+        "App control support",
+        "QC/PD fast charging"
+      ],
+      "specs": [
+        {
+          "label": "Power",
+          "value": "24W"
+        },
+        {
+          "label": "Built-in battery",
+          "value": "5200mAh, 7.4V"
+        },
+        {
+          "label": "Colour temperature",
+          "value": "2500–9900K, adjustable"
+        },
+        {
+          "label": "Colour adjustment",
+          "value": "0–360° full colour gamut"
+        },
+        {
+          "label": "Lighting effects",
+          "value": "24"
+        },
+        {
+          "label": "Luminous flux",
+          "value": "1800 lm"
+        },
+        {
+          "label": "Beam angle",
+          "value": "45°"
+        },
+        {
+          "label": "LED beads",
+          "value": "144"
+        },
+        {
+          "label": "App control",
+          "value": "Supported"
+        },
+        {
+          "label": "QC/PD fast charging",
+          "value": "Supported"
+        },
+        {
+          "label": "Weight",
+          "value": "980g"
+        },
+        {
+          "label": "Shell material",
+          "value": "Aluminium alloy shell + ABS plug/baffle + PC cover"
+        },
+        {
+          "label": "Dimensions",
+          "value": "605 × 100 × 41mm"
+        }
+      ],
+      "packaging_specs": [
+        {
+          "label": "Box dimensions",
+          "value": "132 × 97 × 650mm"
+        },
+        {
+          "label": "Packing quantity",
+          "value": "10 pieces"
+        },
+        {
+          "label": "Full box weight",
+          "value": "21kg"
+        },
+        {
+          "label": "Outer box dimensions",
+          "value": "670 × 285 × 510mm"
+        }
+      ],
+      "reference_images": [
+        "source/reference-images/image1.png"
+      ],
+      "notes": [
+        "The source image is solely an orange/cream retail box showing a printed product illustration. Generated imagery will be an illustrative reconstruction.",
+        "No fast-charge wattage or runtime is specified for AP1000. Do not reuse AP620 values."
+      ],
+      "source_blocks": [
+        99,
+        119
+      ],
+      "source_text": [
+        "Product Name: APKINA AP1000",
+        "Power: 24W",
+        "Built in battery: 5200mAh 7.4V",
+        "Color temperature: 2500-9900K adjustable",
+        "Color: 0-360 ° full color gamut adjustment",
+        "Special effects mode: 24 types",
+        "Luminous flux: 1800LM",
+        "Light angle: 45 °",
+        "LED Beads: 144",
+        "APP control: supported",
+        "QC/PD fast charging: supported",
+        "Weight: 980g",
+        "Shell material: aluminum alloy shell+ABS ",
+        "plug/baffle+PC cover",
+        "Light  size: 605 * 100 * 41mm",
+        "Box size: 132 * 97 * 650mm",
+        "Packing quantity: 10 pieces",
+        "Full box weight: 21kg",
+        "Outer box size: 670 * 285 * 510mm"
+      ]
+    },
+    {
+      "slug": "300w",
+      "exact_name": "APKINA 300W",
+      "name": "300W Bi-Colour Video Light",
+      "model": "300W",
+      "category": "Studio Lights",
+      "category_slug": "studio-lights",
+      "description": "A 300W bi-colour video light with app control, a TFT display and six lighting effects.",
+      "features": [
+        "300W output",
+        "2700–6500K colour temperature",
+        "CRI Ra ≥95",
+        "1–100% intensity control",
+        "Six lighting effects",
+        "App control support",
+        "TFT display"
+      ],
+      "specs": [
+        {
+          "label": "Power",
+          "value": "300W"
+        },
+        {
+          "label": "CRI",
+          "value": "Ra ≥95"
+        },
+        {
+          "label": "Colour temperature",
+          "value": "2700–6500K"
+        },
+        {
+          "label": "Intensity",
+          "value": "1–100%"
+        },
+        {
+          "label": "Lighting effects",
+          "value": "6: Flash, Flash Fast, TV, Strobe 1, Strobe 2 and Strobe 3"
+        },
+        {
+          "label": "Power supply",
+          "value": "AC 220–240V, 50/60Hz"
+        },
+        {
+          "label": "App control",
+          "value": "Supported"
+        },
+        {
+          "label": "Display",
+          "value": "TFT"
+        }
+      ],
+      "packaging_specs": [],
+      "reference_images": [
+        "source/reference-images/image3.png"
+      ],
+      "notes": [
+        "Image labels the product AP 300W BI and states Bowens Mount Design; compatible accessories are shown but marked not included.",
+        "Do not imply reflector, snoot, barndoors, softbox or umbrella are included.",
+        "No product dimensions, weight or illuminance values are given."
+      ],
+      "source_blocks": [
+        120,
+        129
+      ],
+      "source_text": [
+        "Product Name: APKINA 300W",
+        "Power: 300W",
+        "Ra≥95;  ",
+        "CCT: 2700K - 6500K ",
+        "Intensity: 1%-100%",
+        "Lighting Effect: 6 types (Flash, flash fast, TV, ",
+        "strobe1/2/3)",
+        "Power Supply: AC 220V-240V 50/60Hz",
+        "APP   Control: Support  ",
+        "Display: TFT"
+      ]
+    }
+  ]
+}
