@@ -1,0 +1,30 @@
+/* Fonts and shared chrome for the Figma product detail screens. */
+@font-face{font-family:'TASA Orbiter';src:url('/assets/fonts/TASA-Orbiter-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'DM Mono';src:url('/assets/fonts/DM-Mono-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'Fustat';src:url('/assets/fonts/Fustat-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+.product-detail-page{--font-body:'TASA Orbiter','HarmonyOS Sans',Arial,sans-serif;--font-display:var(--font-body);--font-mono:'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace;font-family:var(--font-body);background:#fff}
+.product-detail-page #main{padding-top:0}
+.product-detail-page .global-header{background:#ffffff1a}
+.product-detail-page .global-header .desktop-nav{font-family:'Fustat','HarmonyOS Sans',Arial,sans-serif}
+.pd-footer{display:flex;flex-direction:column;gap:80px;align-items:center;width:calc(100% - 40px);max-width:none;margin:0 auto 20px;padding:72px 48px 0;background:#050505;color:#fff;font-family:var(--font-body);overflow:hidden}
+.pd-footer-brand-row{display:flex;justify-content:space-between;align-items:center;gap:36px;min-height:90px}
+.pd-footer-brand{width:360px;max-width:100%;min-width:0}
+.pd-footer-brand>a{display:block;width:268px;max-width:100%}
+.pd-footer-brand img{width:268px;max-width:100%;height:auto}
+.pd-footer-brand p{font-size:18px;line-height:28px;margin-top:14px}
+.pd-footer-country{font-size:14px;line-height:22px;white-space:nowrap}
+.pd-footer-country span{margin-right:7px}
+.pd-footer-columns{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:42px}
+.pd-footer-columns section{min-width:0}
+.pd-footer-columns h2{margin:0 0 14px;font:400 12px/18px var(--font-mono);text-transform:uppercase;color:#b5b5b5;letter-spacing:0}
+.pd-footer-columns ul{list-style:none;display:flex;flex-direction:column;gap:14px;margin:0;padding:0}
+.pd-footer-columns a{font-size:14px;line-height:22px;color:#fff}
+.pd-footer a:hover{text-decoration:underline;text-underline-offset:4px}
+.pd-footer a:focus-visible{outline:2px solid #fff;outline-offset:5px}
+.pd-footer-signature{display:flex;flex-direction:column;gap:24px}
+.pd-footer-signature p{font:400 12px/18px var(--font-mono);color:#737373}
+.pd-footer-signature img{display:block;width:100%;height:auto}
+@media(max-width:1099px){.pd-footer{padding:56px 32px 0;gap:60px}.pd-footer-columns{gap:24px}.pd-footer-brand-row{gap:24px}}
+@media(max-width:767px){.pd-footer{width:calc(100% - 20px);margin:0 auto 10px;padding:42px 24px 0;gap:48px}.pd-footer-brand-row{flex-direction:column;align-items:flex-start;gap:24px}.pd-footer-brand p{font-size:16px;line-height:26px}.pd-footer-columns{grid-template-columns:repeat(2,minmax(0,1fr));gap:36px 20px}.pd-footer-signature p{font-size:clamp(9px,2.8vw,12px)}.pd-footer-signature{gap:24px}}
+
+.pd-footer-brand-row,.pd-footer-columns,.pd-footer-signature{width:100%;max-width:1304px}

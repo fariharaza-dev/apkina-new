@@ -1,0 +1,32 @@
+/* The homepage navigation and footer are shared by every route. */
+:root{--header-top:49px;--header-height:80px;--header-bottom:calc(var(--header-top) + var(--header-height));--header-clearance:calc(var(--header-bottom) + 12px);--home-display:'Aeonik','HarmonyOS Sans',Arial,sans-serif;--home-body:'TASA Orbiter Display','HarmonyOS Sans',Arial,sans-serif;--font-display:var(--home-display);--font-body:var(--home-body);--font-mono:'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace}
+.global-header{--section-radius:32px;width:784px;max-width:calc(100% - 80px);background:rgba(35,24,39,.9);border-color:transparent;box-shadow:none;font-family:var(--font-body)}
+.home-page .global-header{background:#ffffff1a}
+.global-header .nav-inner{padding:0 35px;gap:26px;justify-content:space-between}
+.global-header .brand .site-logo{width:112px;height:20px}
+.global-header .desktop-nav{gap:36px;justify-content:center;font-size:14px;flex:none}
+.global-header .desktop-nav>a,.global-header .nav-dropdown>summary{padding:29px 0;line-height:20px}
+.global-header .nav-utility{gap:0}
+.global-header .home-nav-chevron{width:10px;height:6px;transform:none}
+.global-header .nav-dropdown[open] .home-nav-chevron{transform:rotate(180deg)}
+.global-header .home-search-icon{width:18px;height:18px}
+.global-header .product-menu{width:min(1020px,calc(100vw - 80px));left:50%;transform:translateX(-50%)}
+.global-header .product-menu-list{white-space:normal}
+.global-header #mobile-menu{top:calc(var(--header-height) + 10px);max-height:calc(100dvh - var(--header-bottom) - 22px)}
+.home-footer{--font-display:var(--home-display);--font-body:var(--home-body);--font-mono:ui-monospace,SFMono-Regular,Consolas,monospace;font-family:var(--font-body)}
+@media(min-width:768px) and (max-width:1199px){
+  .global-header .nav-inner{padding:0 28px}
+  .global-header .desktop-nav{gap:25px}
+}
+@media(max-width:1099px){
+  .global-header{width:calc(100% - 80px);max-width:784px}
+  .global-header .nav-inner{justify-content:space-between}
+  .global-header .nav-utility{gap:18px}
+}
+@media(max-width:767px){
+  :root{--header-top:28px;--header-height:64px}
+  .global-header{--section-radius:24px;width:calc(100% - 52px);max-width:none}
+  .global-header .nav-inner{padding:0 22px}
+  .global-header .brand .site-logo{width:112px;height:20px}
+  .global-header #mobile-menu{top:74px}
+}

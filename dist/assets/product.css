@@ -1,0 +1,200 @@
+/* Product detail composition from the supplied Figma frames. */
+.apk-product{--product-ink:#050505;--product-muted:#737373;--product-subtle:#b5b5b5;--product-border:#dededb;--product-panel:#f3f3f1;display:flex;flex-direction:column;align-items:center;gap:20px;padding:20px;background:#fff;color:var(--product-ink);font-family:var(--font-body,'TASA Orbiter','HarmonyOS Sans',Arial,sans-serif)}
+.apk-product *{box-sizing:border-box}
+.apk-product h1,.apk-product h2,.apk-product h3,.apk-product p{margin:0;font-family:inherit;font-weight:400;letter-spacing:0}
+.apk-product a{color:inherit;text-decoration:none}
+.apk-product button{font:inherit;cursor:pointer}
+.apk-product button:focus-visible,.apk-product a:focus-visible,.apk-product summary:focus-visible{outline:2px solid #050505;outline-offset:6px}
+.apk-product section[id],.apk-product button[id]{scroll-margin-top:16px}
+.apk-product .product-frame,.apk-product .product-highlights,.apk-product .product-lifestyle,.apk-product .product-technical,.apk-product .product-related{width:calc(100% - 96px);max-width:1304px;margin:0 auto}
+.apk-product .product-sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.apk-product .product-cutout{display:block;width:100%;height:100%;max-width:100%;object-fit:contain;object-position:center;filter:none;transform:none;mix-blend-mode:normal}
+.apk-product .product-hero-photo img.product-cutout,.apk-product .product-gallery-photo img.product-cutout,.apk-product .related-product-photo img.product-cutout{object-fit:contain;object-position:center;transform:none;filter:none}
+
+/* The first 136px of the hero provide room for the shared floating navigation. */
+.apk-product .product-main-hero{position:relative;width:100%;margin:0;padding:136px 0 0;border-radius:40px;overflow:hidden;background:var(--product-ink);color:#fff}
+.apk-product .product-hero-inner{display:grid;grid-template-columns:minmax(0,512fr) minmax(0,760fr);align-items:center;gap:32px;width:calc(100% - 96px);max-width:1304px;min-height:780px;margin:0 auto;padding:20px 0 48px}
+.apk-product .product-hero-copy{display:flex;flex-direction:column;align-items:flex-start;gap:26px;min-width:0;text-align:left}
+.apk-product .product-type{color:var(--product-subtle);font:400 12px/18px var(--font-mono,'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace);text-transform:uppercase}
+.apk-product .product-hero-copy h1{max-width:100%;font-size:88px;line-height:94px;overflow-wrap:normal;word-break:normal;hyphens:none}
+.apk-product .product-hero-copy h1.product-title--long{font-size:64px;line-height:70px}
+.apk-product .product-tagline{width:100%;max-width:480px;font-size:32px;line-height:38px}
+.apk-product .product-hero-copy .product-summary{width:100%;max-width:470px;font-size:18px;line-height:28px;color:var(--product-subtle)}
+.apk-product .product-hero-actions{display:flex;flex-wrap:wrap;align-items:center;gap:16px}
+.apk-product .product-compare-cta,.apk-product .technical-download,.apk-product .related-heading>a{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:62px;padding:17px 26px;border:0;border-radius:999px;font-size:18px;line-height:28px;font-weight:400;white-space:nowrap;transition:background .2s,color .2s}
+.apk-product .product-compare-cta{min-width:128px;background:#fff;color:var(--product-ink)}
+.apk-product .product-compare-cta:hover{background:#eee;color:var(--product-ink)}
+.apk-product .product-compare-cta.cta-filled{--cta-fill:#fff;background:transparent;color:var(--product-ink)}
+.apk-product .product-hero-photo{width:100%;height:auto;min-width:0;aspect-ratio:760/712;overflow:hidden;border-radius:24px;background:var(--product-ink)}
+.apk-product .product-hero-photo>img{display:block;width:100%;height:100%;object-fit:contain}
+
+/* Six clear measurements, with longer supplied qualifications kept readable. */
+.apk-product .product-highlights{padding:56px 0}
+.apk-product .product-highlights-inner{width:100%;min-width:0}
+.apk-product .highlights-heading{font-size:48px;line-height:54px;margin:0 0 32px}
+.apk-product .highlight-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:40px;row-gap:32px;padding-top:32px;border-top:1px solid var(--product-border)}
+.apk-product .highlight-grid.highlights--2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.apk-product .highlight-grid .highlight-tile{min-width:0;padding:0;border-radius:0;background:none;overflow:visible}
+.apk-product .highlight-copy{min-width:0}
+.apk-product .highlight-copy h3{margin:0 0 12px;color:var(--product-muted);font:400 12px/18px var(--font-mono,'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace);text-transform:uppercase}
+.apk-product .metric-value{font-size:32px;line-height:38px;overflow-wrap:normal;word-break:normal;hyphens:none}
+.apk-product .metric-value--medium,.apk-product .metric-value--long{font-size:18px;line-height:28px}
+
+/* One continuous dark panel joins the product gallery and feature narrative. */
+.apk-product .product-feature-section{width:100%;margin:0;padding:56px 48px;overflow:hidden;border-radius:40px;background:var(--product-ink);color:#fff}
+.apk-product .product-features-inner{display:grid;grid-template-columns:minmax(0,600fr) minmax(0,656fr);align-items:center;gap:48px;max-width:1304px;margin:0 auto}
+.apk-product .product-gallery{width:100%;max-width:none;min-width:0;margin:0;padding:0;border-radius:0;background:none;text-align:left}
+.apk-product .product-gallery-label{margin:0 0 18px;color:var(--product-subtle);font:400 12px/18px var(--font-mono,'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace);text-transform:uppercase}
+.apk-product .product-gallery-photo{position:relative;display:block;width:100%;height:auto;aspect-ratio:1;margin:0;padding:0;border:0;border-radius:24px;overflow:hidden;background:var(--product-ink);color:#fff}
+.apk-product .product-gallery-photo>img{display:block;width:100%;height:100%;object-fit:contain}
+.apk-product .product-reference-note{margin-top:18px;color:var(--product-subtle);font-size:14px;line-height:22px}
+.apk-product .product-editorial{width:100%;max-width:none;min-width:0;margin:0}
+.apk-product .product-editorial h2{font-size:48px;line-height:54px;color:#fff;letter-spacing:0}
+.apk-product .product-lead{max-width:620px;margin-top:28px;color:var(--product-subtle);font-size:18px;line-height:28px}
+.apk-product .feature-list{display:flex;flex-direction:column;gap:18px;list-style:none;margin:28px 0 0;padding:0}
+.apk-product .feature-list li{display:grid;grid-template-columns:32px minmax(0,1fr);gap:16px;min-width:0;color:#fff;font-size:18px;line-height:28px;overflow-wrap:break-word;word-break:normal;hyphens:none}
+.apk-product .feature-number{color:var(--product-subtle);font:400 12px/18px var(--font-mono,'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace)}
+.apk-product .feature-text{min-width:0}
+
+/* Editorial scene: retain the reference crop on desktop, a full-width scene on phones. */
+.apk-product .product-lifestyle{padding:56px 0}
+.apk-product .product-lifestyle-heading>p{margin-bottom:24px;color:var(--product-muted);font:400 12px/18px var(--font-mono,'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace);text-transform:uppercase}
+.apk-product .product-lifestyle-heading h2{font-size:48px;line-height:54px}
+.apk-product .product-lifestyle figure{margin:24px 0 0}
+.apk-product .product-lifestyle-photo{position:relative;display:block;width:100%;height:620px;padding:0;border:0;border-radius:24px;overflow:hidden;background:var(--product-panel);color:#fff}
+.apk-product .product-lifestyle-photo>img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+.apk-product .product-lifestyle-caption,.apk-product .product-lifestyle figcaption{margin-top:24px;color:var(--product-muted);font-size:14px;line-height:22px}
+.apk-product .lifestyle-enlarge{position:absolute;right:20px;bottom:20px;display:flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;background:#05050580;color:#fff}
+
+/* White specification table and a lighter, permanently visible packaging panel. */
+.apk-product .product-technical{padding:40px 0 56px;background:#fff;color:var(--product-ink);border:0;border-radius:0}
+.apk-product .product-specs-inner{display:grid;grid-template-columns:minmax(0,358fr) minmax(0,874fr);align-items:start;gap:72px}
+.apk-product .product-specs-intro{display:flex;flex-direction:column;align-items:flex-start;gap:28px;min-width:0}
+.apk-product .product-specs-intro h2{font-size:48px;line-height:54px}
+.apk-product .technical-download,.apk-product .related-heading>a{background:var(--product-ink);color:#fff}
+.apk-product .technical-download:hover,.apk-product .related-heading>a:hover{background:#242424;color:#fff}
+.apk-product .technical-download.cta-filled,.apk-product .related-heading>a.cta-filled{--cta-fill:#050505;background:transparent;color:#fff}
+.apk-product .technical-download svg{width:18px;height:18px;flex:none}
+.apk-product .product-specs-content{min-width:0}
+.apk-product .technical-list{margin:0;padding:0;border:0;border-top:1px solid var(--product-border);border-radius:0;background:none;overflow:visible}
+.apk-product .technical-row{display:grid;grid-template-columns:minmax(0,270fr) minmax(0,572fr);gap:32px;align-items:start;padding:15px 0;border-bottom:1px solid var(--product-border);background:none}
+.apk-product .technical-row dt,.apk-product .technical-row dd{display:block;min-width:0;margin:0;padding:0;border:0;background:none;font-size:18px;line-height:28px;font-weight:400;letter-spacing:0;overflow-wrap:break-word;word-break:normal;hyphens:none}
+.apk-product .technical-row dt{color:var(--product-muted)}
+.apk-product .technical-row dd{color:var(--product-ink)}
+.apk-product .technical-packaging{margin-top:0;padding:28px;border:0;border-radius:24px;background:var(--product-panel);color:var(--product-ink)}
+.apk-product .technical-packaging h3,.apk-product .technical-packaging summary{margin:0 0 18px;padding:0;color:var(--product-ink);font-size:18px;line-height:28px;font-weight:400;list-style:none}
+.apk-product .technical-packaging summary::-webkit-details-marker{display:none}
+.apk-product .technical-packaging .technical-list{display:grid;gap:18px;border:0;background:none}
+.apk-product .technical-packaging .technical-row{grid-template-columns:minmax(0,250fr) minmax(0,544fr);gap:24px;padding:0;border:0}
+.apk-product .technical-packaging .technical-row dt,.apk-product .technical-packaging .technical-row dd{font-size:14px;line-height:22px}
+
+/* Related products retain their entire silhouettes on the shared black backing. */
+.apk-product .product-related{padding:40px 0 56px}
+.apk-product .related-heading{display:flex;align-items:center;justify-content:space-between;gap:28px;margin-bottom:40px}
+.apk-product .related-heading h2{min-width:0;font-size:48px;line-height:54px}
+.apk-product .related-heading>a{flex:none}
+.apk-product .related-products{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}
+.apk-product .related-product{display:block;min-width:0;color:var(--product-ink)}
+.apk-product .related-product-photo{display:block;width:100%;height:316px;padding:0;border-radius:24px;overflow:hidden;background:var(--product-ink)}
+.apk-product .related-product-photo>img{display:block;width:100%;height:100%;object-fit:contain}
+.apk-product .related-product-copy{display:flex;flex-direction:column;gap:16px;min-width:0;padding:16px 0 0}
+.apk-product .related-product-copy>p{color:var(--product-muted);font:400 12px/18px var(--font-mono,'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace);text-transform:uppercase}
+.apk-product .related-product-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;min-width:0}
+.apk-product .related-product-heading h3{min-width:0;font-size:32px;line-height:38px;overflow-wrap:break-word;word-break:normal}
+.apk-product .related-product-arrow{flex:none;font-size:32px;line-height:38px}
+.apk-product .related-product-link{display:block;margin:0;color:var(--product-muted);font-size:14px;line-height:22px}
+
+@media(max-width:1199px){
+  .apk-product .product-hero-inner{min-height:660px}
+  .apk-product .product-hero-copy h1{font-size:72px;line-height:80px}
+  .apk-product .product-hero-copy h1.product-title--long{font-size:54px;line-height:62px}
+  .apk-product .product-tagline{font-size:28px;line-height:34px}
+  .apk-product .product-features-inner{gap:32px}
+  .apk-product .product-editorial h2,.apk-product .product-specs-intro h2{font-size:40px;line-height:46px}
+  .apk-product .product-specs-inner{grid-template-columns:minmax(260px,358fr) minmax(0,874fr);gap:40px}
+  .apk-product .technical-row{gap:24px}
+  .apk-product .related-product-photo{height:280px}
+}
+@media(max-width:900px){
+  .apk-product .product-frame,.apk-product .product-highlights,.apk-product .product-lifestyle,.apk-product .product-technical,.apk-product .product-related{width:calc(100% - 56px)}
+  .apk-product .product-main-hero{padding-top:136px}
+  .apk-product .product-hero-inner{grid-template-columns:minmax(0,1fr);gap:36px;width:calc(100% - 56px);min-height:0;padding:32px 0 40px}
+  .apk-product .product-hero-copy{width:100%;max-width:600px;gap:24px}
+  .apk-product .product-hero-photo{max-width:660px;justify-self:center}
+  .apk-product .highlight-grid{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:32px}
+  .apk-product .product-feature-section{padding:48px 28px}
+  .apk-product .product-features-inner{grid-template-columns:minmax(0,1fr);gap:48px}
+  .apk-product .product-gallery{max-width:660px;justify-self:center}
+  .apk-product .product-editorial h2{font-size:48px;line-height:54px}
+  .apk-product .product-lifestyle-photo{height:auto;aspect-ratio:16/9}
+  .apk-product .product-specs-inner{grid-template-columns:minmax(0,1fr);gap:40px}
+  .apk-product .product-specs-intro h2{font-size:48px;line-height:54px}
+  .apk-product .related-products{gap:18px}
+  .apk-product .related-product-photo{height:240px}
+  .apk-product .related-product-heading h3,.apk-product .related-product-arrow{font-size:28px;line-height:34px}
+}
+@media(max-width:767px){
+  .apk-product{gap:16px;padding:10px}
+  .apk-product .product-frame,.apk-product .product-highlights,.apk-product .product-lifestyle,.apk-product .product-technical,.apk-product .product-related{width:calc(100% - 40px)}
+  .apk-product .product-main-hero{padding-top:116px;border-radius:28px}
+  .apk-product .product-hero-inner{width:calc(100% - 40px);gap:32px;padding:24px 0 32px}
+  .apk-product .product-hero-copy{gap:22px}
+  .apk-product .product-hero-copy h1{font-size:clamp(48px,10vw,68px);line-height:1.08}
+  .apk-product .product-hero-copy h1.product-title--long{font-size:clamp(42px,9vw,60px);line-height:1.1}
+  .apk-product .product-type{font-size:11px;line-height:18px}
+  .apk-product .product-tagline{font-size:26px;line-height:32px}
+  .apk-product .product-hero-copy .product-summary{font-size:16px;line-height:26px}
+  .apk-product .product-compare-cta,.apk-product .technical-download,.apk-product .related-heading>a{min-height:54px;padding:14px 22px;font-size:16px;line-height:26px}
+  .apk-product .product-hero-photo{max-width:540px;border-radius:20px}
+  .apk-product .product-highlights,.apk-product .product-lifestyle{padding:40px 0}
+  .apk-product .highlights-heading,.apk-product .product-editorial h2,.apk-product .product-lifestyle-heading h2,.apk-product .product-specs-intro h2,.apk-product .related-heading h2{font-size:36px;line-height:42px}
+  .apk-product .highlights-heading{margin-bottom:28px}
+  .apk-product .highlight-grid{column-gap:24px;row-gap:28px;padding-top:28px}
+  .apk-product .highlight-copy h3{font-size:11px;line-height:18px;margin-bottom:10px}
+  .apk-product .metric-value{font-size:28px;line-height:34px}
+  .apk-product .metric-value--compact{font-size:26px;line-height:34px}
+  .apk-product .metric-value--medium,.apk-product .metric-value--long{font-size:17px;line-height:26px}
+  .apk-product .product-feature-section{padding:40px 20px;border-radius:28px}
+  .apk-product .product-features-inner{gap:36px}
+  .apk-product .product-gallery-photo{border-radius:20px}
+  .apk-product .product-lead{font-size:16px;line-height:26px;margin-top:24px}
+  .apk-product .feature-list{gap:16px;margin-top:24px}
+  .apk-product .feature-list li{grid-template-columns:28px minmax(0,1fr);gap:12px;font-size:16px;line-height:26px}
+  .apk-product .product-lifestyle-heading>p{margin-bottom:18px;font-size:11px}
+  .apk-product .product-lifestyle figure{margin-top:22px}
+  .apk-product .product-lifestyle-photo{border-radius:20px}
+  .apk-product .product-lifestyle-caption,.apk-product .product-lifestyle figcaption{margin-top:18px}
+  .apk-product .product-technical,.apk-product .product-related{padding:32px 0 40px}
+  .apk-product .product-specs-inner{gap:32px}
+  .apk-product .product-specs-intro{gap:24px}
+  .apk-product .technical-row{grid-template-columns:minmax(0,1fr) minmax(0,1.6fr);gap:20px;padding:14px 0}
+  .apk-product .technical-row dt,.apk-product .technical-row dd{font-size:16px;line-height:26px}
+  .apk-product .technical-packaging{padding:22px;border-radius:20px;margin-top:24px}
+  .apk-product .technical-packaging .technical-row{grid-template-columns:minmax(0,1fr) minmax(0,1.6fr);gap:18px}
+  .apk-product .related-heading{align-items:flex-start;gap:22px;margin-bottom:32px}
+  .apk-product .related-products{grid-template-columns:minmax(0,1fr);gap:32px}
+  .apk-product .related-product-photo{height:auto;aspect-ratio:418/316;border-radius:20px}
+  .apk-product .related-product-heading h3,.apk-product .related-product-arrow{font-size:30px;line-height:36px}
+}
+@media(max-width:480px){
+  .apk-product .highlight-grid.highlights--2{grid-template-columns:minmax(0,1fr)}
+  .apk-product .highlight-tile--long{grid-column:1/-1}
+  .apk-product .technical-row,.apk-product .technical-packaging .technical-row{grid-template-columns:minmax(0,1fr);gap:6px}
+  .apk-product .technical-packaging{padding:20px}
+  .apk-product .related-heading{flex-direction:column}
+}
+@media(max-width:359px){
+  .apk-product .product-tagline{font-size:24px;line-height:30px}
+  .apk-product .highlights-heading,.apk-product .product-editorial h2,.apk-product .product-lifestyle-heading h2,.apk-product .product-specs-intro h2,.apk-product .related-heading h2{font-size:32px;line-height:38px}
+  .apk-product .metric-value,.apk-product .metric-value--compact{font-size:22px;line-height:30px}
+  .apk-product .metric-value--medium,.apk-product .metric-value--long{font-size:16px;line-height:25px}
+  .apk-product .technical-download{font-size:15px;padding-right:18px;padding-left:18px}
+}
+@media(prefers-reduced-motion:reduce){.apk-product .product-compare-cta,.apk-product .technical-download,.apk-product .related-heading>a{transition:none}}
+
+.apk-product .product-main-hero a:focus-visible,.apk-product .product-feature-section button:focus-visible{outline-color:#fff}
+
+@media(max-width:480px){.apk-product .highlight-grid.highlights--2{grid-template-columns:minmax(0,1fr)}}
+
+@media(prefers-reduced-motion:no-preference){.apk-product .related-product:focus-visible .related-product-link .cta-letter{transform:translateY(-100%)}}
+@media(hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){.apk-product .related-product:hover .related-product-link .cta-letter{transform:translateY(-100%)}}
