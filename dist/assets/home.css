@@ -1,0 +1,52 @@
+/* Homepage composition from Figma Home 69:4. Kept local to this page. */
+@font-face{font-family:'Inter';src:url('/assets/fonts/Inter-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'TASA Orbiter';src:url('/assets/fonts/TASA-Orbiter-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+.home-page{--section-radius:32px;--frame-inset:20px;--header-top:49px;--header-height:80px;--home-display:'Aeonik','HarmonyOS Sans',Arial,sans-serif;--font-display:var(--home-display);--font-body:var(--home-body);--home-body:'TASA Orbiter Display','HarmonyOS Sans',Arial,sans-serif;background:#fff;font-family:var(--home-body)}
+.home-page .back-top{opacity:0;visibility:hidden;pointer-events:none}
+.home-page:has(.cinematic-hero[data-hero-offscreen="true"]) .back-top{opacity:1;visibility:visible;pointer-events:auto}
+.cinematic-hero{--pointer-x:0px;--pointer-y:0px;position:relative;isolation:isolate;overflow:hidden;margin:20px 20px 0;border-radius:var(--section-radius);height:calc((100vw - 40px)*.718);max-height:1250px;min-height:760px;color:#fff;background:#080207}
+.hero-atmosphere{position:absolute;inset:0;z-index:-1;pointer-events:none;overflow:hidden;background:linear-gradient(0deg,#46062b 40%,#820ca7 70%,#fd2ecb 100%)}
+.hero-colour-field{position:absolute;inset:-12%;background:radial-gradient(ellipse at 9% 0%,#dd23b33b,transparent 46%),radial-gradient(ellipse at 96% 4%,#ec36c53b,transparent 44%);animation:hero-colour-drift 24s ease-in-out infinite alternate}
+.hero-vignette-image{position:absolute;left:0;top:0;width:100%;max-width:none;height:100%;object-fit:fill}
+.hero-edge-light{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 115%,#51122c29,transparent 56%);animation:hero-edge-breathe 16s ease-in-out infinite alternate}
+.cinematic-copy{position:absolute;z-index:4;top:16.91%;left:20px;right:20px;text-align:center;pointer-events:auto;user-select:text;-webkit-user-select:text}
+.cinematic-eyebrow{font:400 14px/20px 'DM Mono',ui-monospace,SFMono-Regular,Consolas,monospace;color:#ffffff99;text-transform:uppercase;letter-spacing:0;margin:0 0 20px;text-box-trim:trim-both;text-box-edge:cap alphabetic}
+/* Keep a full paint box for rounded glyphs; margins preserve the original cap-height spacing. */
+.cinematic-copy h1{font:400 clamp(100px,10.14vw,182px)/1 var(--home-display);letter-spacing:-.055em;background:linear-gradient(#fff 14%,#999 84%);background-clip:text;-webkit-background-clip:text;color:transparent;margin:-.15em 0;text-box-trim:none}
+.cinematic-copy h1::selection{background:#fff;color:#161016}
+.cinematic-tagline{font-size:18px;line-height:26px;color:#fff;margin-top:20px;text-box-trim:trim-both;text-box-edge:cap alphabetic}
+.cinematic-cta{display:inline-flex;align-items:center;justify-content:center;min-width:180px;height:72px;padding:0 30px;margin-top:30px;border-radius:100px;background:#fff;color:#000;font-size:18px;line-height:24px;pointer-events:auto}
+.cinematic-product-position{position:absolute;z-index:2;left:50.6%;top:49.78%;transform:translateX(-50%);width:29.176%;aspect-ratio:408.47/612.705;pointer-events:none}
+.cinematic-parallax{width:100%;height:100%;transform:translate3d(var(--pointer-x),var(--pointer-y),0);transition:transform .7s cubic-bezier(.22,.61,.36,1)}
+.cinematic-product{display:block;width:100%;height:100%;pointer-events:auto;animation:hero-product-float 10s ease-in-out infinite}
+.cinematic-product-image{display:block;width:100%;height:100%;object-fit:cover;border-radius:var(--section-radius)}
+.cinematic-hero[data-motion-paused="true"] .hero-animate{animation-play-state:paused}
+.home-collection{width:calc(100% - 40px);max-width:1400px;margin:20px auto}
+.figma-product-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.figma-product,.figma-upcoming{--home-card-body:'TASA Orbiter','HarmonyOS Sans',Arial,sans-serif;min-width:0;width:100%;position:relative;isolation:isolate;overflow:hidden;border-radius:var(--section-radius);background:#000;color:#fff;aspect-ratio:690/651}
+.figma-product-art,.figma-upcoming-art{position:absolute;inset:0;z-index:-1;width:100%;height:100%;object-fit:cover}
+.figma-product-copy{position:relative;display:flex;flex-direction:column;align-items:center;gap:30px;padding:60px 20px 0;text-align:center}
+.figma-product-details{display:flex;flex-direction:column;align-items:center;gap:16px;max-width:100%}
+.figma-product-title{display:flex;flex-direction:column;align-items:center;gap:20px;max-width:100%}
+.figma-product-type{font:400 12.985px/70px 'Inter','HarmonyOS Sans',Arial,sans-serif;opacity:.6;margin:0;text-box-trim:trim-both;text-box-edge:cap alphabetic}
+.figma-product-copy h2{font:400 64px/70px 'Inter','HarmonyOS Sans',Arial,sans-serif;letter-spacing:0;margin:0;text-box-trim:trim-both;text-box-edge:cap alphabetic}
+.figma-product-tagline{font:400 18px/normal var(--home-card-body);margin:0;text-box-trim:trim-both;text-box-edge:cap alphabetic}
+.figma-outline-cta{display:inline-flex;align-items:center;justify-content:center;min-width:149px;height:74px;padding:0 30px;border:1px solid #fff;border-radius:100px;margin:0;font-family:var(--home-card-body);font-size:18px;line-height:24px;transition:background .3s}
+.figma-outline-cta:hover{background:#ffffff0d}
+.figma-upcoming{aspect-ratio:1400/651;margin-top:20px}
+.figma-upcoming .figma-product-copy{position:absolute;left:10%;top:50%;transform:translateY(-50%);padding:0;align-items:flex-start;text-align:left}
+.figma-upcoming .figma-product-details,.figma-upcoming .figma-product-title{align-items:flex-start}
+.upcoming-status{min-width:166px;cursor:default}
+.cinematic-hero a:focus-visible,.figma-product a:focus-visible{outline:2px solid #fff;outline-offset:5px}
+@keyframes hero-colour-drift{0%{transform:translate(-1%,0)}100%{transform:translate(1%,1.4%)}}
+@keyframes hero-edge-breathe{from{opacity:.6}to{opacity:1}}
+@keyframes hero-product-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@media(min-width:768px) and (max-width:1199px){.figma-product-copy{padding-top:42px;gap:24px}.figma-product-copy h2{font-size:52px}.figma-outline-cta{height:60px;padding:0 24px;font-size:16px}.figma-product-tagline{font-size:16px}}
+
+@media(max-width:767px){.home-page{--frame-inset:10px;--section-radius:24px;--header-top:28px;--header-height:64px}.cinematic-hero{margin:10px 10px 0;height:780px;min-height:0;max-height:none}.cinematic-copy{top:143px;left:10px;right:10px}.cinematic-eyebrow{font-size:10px;line-height:18px;margin-bottom:20px}.cinematic-copy h1{font-size:clamp(78px,21vw,132px)}.cinematic-tagline{font-size:16px;line-height:24px;margin-top:20px}.cinematic-cta{height:60px;min-width:160px;font-size:16px;margin-top:26px}.cinematic-product-position{width:290px;max-width:80%;top:410px;left:50.6%}.hero-vignette-image{width:210%;left:-55%;height:100%;top:0}.home-collection{width:calc(100% - 20px);max-width:690px;margin:10px auto}.figma-product-grid{grid-template-columns:1fr;gap:10px}.figma-product{aspect-ratio:690/651;min-height:520px}.figma-product-copy{gap:22px;padding:34px 14px 0}.figma-product-copy h2{font-size:50px}.figma-product-type{font-size:12px}.figma-product-tagline{font-size:16px;line-height:24px}.figma-outline-cta{height:58px;min-width:138px;font-size:16px;padding:0 24px}.figma-product-art{object-fit:contain;object-position:center bottom}.figma-upcoming{display:flex;flex-direction:column;align-items:center;gap:32px;aspect-ratio:auto;min-height:640px;margin-top:10px}.figma-upcoming-art{object-position:62% bottom;object-fit:cover}.figma-upcoming .figma-product-copy{position:relative;inset:auto;transform:none;order:1;width:100%;padding:38px 24px 0;align-items:center;text-align:center;z-index:1}.figma-upcoming .figma-product-details,.figma-upcoming .figma-product-title{align-items:center}.upcoming-status{min-width:150px}}
+@media(prefers-reduced-motion:reduce){.cinematic-hero .hero-animate{animation:none!important}.cinematic-parallax{transform:none!important;transition:none}.figma-outline-cta{transition:none}}
+
+@media(min-width:768px) and (max-width:1199px){.figma-product{min-height:560px}.figma-product-art{object-fit:contain;object-position:center bottom}.figma-upcoming{min-height:450px}}
+
+.figma-upcoming-mobile,.figma-upcoming-backdrop{display:none}
+@media(max-width:767px){.figma-upcoming-art{display:none}.figma-upcoming-backdrop{display:block;position:absolute;inset:0;z-index:-1;width:100%;height:100%;object-fit:cover;object-position:75% top}.figma-upcoming-mobile{display:block;position:relative;inset:auto;order:2;flex:none;width:100%;height:clamp(300px,75vw,420px);margin-top:auto;object-fit:contain;object-position:center bottom;z-index:0}.home-page .figma-product{width:100%;min-width:0}}
